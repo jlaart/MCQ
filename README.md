@@ -1,27 +1,27 @@
-AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
+# AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
 
 - [ ] AWS CLI.
 - [ ] AWS API.
 - [ ] AWS SDK.
-- [ ] AWS Management Console.
+- [x] AWS Management Console.
+
 
  
-
 ### Which of the following is an example of horizontal scaling in the AWS Cloud?
 
 - [ ] Replacing an existing EC2 instance with a larger, more powerful one.
 - [ ] Increasing the compute capacity of a single EC< instance to address the growing demands of an application.
 - [ ] Adding more RAM capacity to an EC2 instance.
-- [ ] Adding more EC2 instances of the same size to handle an increase in traffic.
+- [x] Adding more EC2 instances of the same size to handle an increase in traffic.
 
  
 
 ### You have noticed that several critical Amazon EC2 instances have been terminated. Which of the following AWS services would help you determine who took this action?
 
 - [ ] Amazon Inspector.
-- [ ] AWS CloudTrail.
+- [x] AWS CloudTrail.
 - [ ] AWS Trusted Advisor.
 - [ ] EC2 Instance Usage Report.
 
@@ -30,16 +30,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the below options are related to the reliability of AWS? (Choose TWO)
 
 - [ ] Applying the principle of least privilege to all AWS resources.
-- [ ] Automatically provisioning new resources to meet demand.
+- [x] Automatically provisioning new resources to meet demand.
 - [ ] All AWS services are considered Global Services, and this design helps customers serve their international users.
 - [ ] Providing compensation to customers if issues occur.
-- [ ] Ability to recover quickly from failures.
+- [x] Ability to recover quickly from failures.
 
  
 
 ### Which statement is true regarding the AWS Shared Responsibility Model?
 
-- [ ] Responsibilities vary depending on the services used.
+- [x] Responsibilities vary depending on the services used.
 - [ ] Security of the IaaS services is the responsibility of AWS.
 - [ ] Patching the guest OS is always the responsibility of AWS.
 - [ ] Security of the managed services is the responsibility of the customer.
@@ -49,7 +49,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
 
 - [ ] The Reserved Instance discounts can only be shared with the master account.
-- [ ] All accounts can receive the hourly cost benefit of the Reserved Instances (Comect).
+- [x] All accounts can receive the hourly cost benefit of the Reserved Instances (Comect).
 - [ ] The purchased instances will have better performance than On-demand instances.
 - [ ] There are no cost benefits from using consolidated billing; It is for informational purposes only.
 
@@ -59,25 +59,25 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Deploy the application across multiple Availability Zones and Edge locations.
 - [ ] Deploy the application across multiple Availability Zones and subnets.
-- [ ] Deploy the application across multiple Regions and Availability Zones (Co ).
+- [x] Deploy the application across multiple Regions and Availability Zones (Co ).
 - [ ] Deploy the application across multiple VPC’s and subnets.
 
  
 
 ### What does AWS Snowball provide? (Choose TWO)
 
-- [ ] Built-in computing capabilities that allow customers to process data locally.
+- [x] Built-in computing capabilities that allow customers to process data locally.
 - [ ] A catalog of third-party software solutions that customers need to build solutions and run their businesses.
 - [ ] A hybrid cloud storage between on-premises environments and the AWS Cloud.
 - [ ] An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS.
-- [ ] Secure transfer of large amounts of data into and out of the AWS.
+- [x] Secure transfer of large amounts of data into and out of the AWS.
 
  
 
 ### A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
 
 - [ ] AWS Health Dashboard.
-- [ ] AWS Support Concierge.
+- [x] AWS Support Concierge.
 - [ ] AWS Customer Service.
 - [ ] AWS Operations Support.
 
@@ -88,7 +88,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Applying the Amazon Connect latency-based routing policy.
 - [ ] Registering a new US domain name to serve the users in the US.
 - [ ] Building a new data center in the US and implementing a hybrid model.
-- [ ] Deploying new Amazon EC2 instances in a Region located in the US.
+- [x] Deploying new Amazon EC2 instances in a Region located in the US.
 
  
 
@@ -96,7 +96,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] IAM roles.
 - [ ] IAM users.
-- [ ] IAM user groups.
+- [x] IAM user groups.
 - [ ] AWS Organizations.
 
  
@@ -104,7 +104,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
 
 - [ ] AWS OpsWorks.
-- [ ] AWS Database Migration Service.
+- [x] AWS Database Migration Service.
 - [ ] AWS Server Migration Service.
 - [ ] AWS Application Discovery Service.
 
@@ -114,25 +114,25 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Build security in every layer.
 - [ ] Parallelize tasks.
-- [ ] Implement elasticity.
+- [x] Implement elasticity.
 - [ ] Adopt monolithic architecture.
 
  
 
 ### What are the benefits of having infrastructure hosted in AWS? (Choose TWO)
 
-- [ ] Increasing speed and agility.
+- [x] Increasing speed and agility.
 - [ ] There is no need to worry about security.
 - [ ] Gaining complete control over the physical infrastructure.
 - [ ] Operating applications on behalf of customers.
-- [ ] All of the physical security and most of the data/network security are taken care of for you.
+- [x] All of the physical security and most of the data/network security are taken care of for you.
 
  
 
 ### What is the advantage of the AWS-recommended practice of "decoupling" applications?
 
 - [ ] Allows treating an application as a single, cohesive unit.
-- [ ] Reduces inter-dependencies so that failures do not impact other components of the application.
+- [x] Reduces inter-dependencies so that failures do not impact other components of the application.
 - [ ] Allows updates of any monolithic application quickly and easily.
 - [ ] Allows tracking of any API call made to any AWS service.
 
@@ -143,7 +143,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Budgets.
 - [ ] AWS Pricing Calculator.
 - [ ] AWS Systems Manager.
-- [ ] AWS Cost & Usage Reports.
+- [x] AWS Cost & Usage Reports.
 
  
 
@@ -151,7 +151,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS services’ costs will be reduced to half the original price.
 - [ ] The consolidated billing feature is just for organizational purpose.
-- [ ] Each AWS account gets volume discounts.
+- [x] Each AWS account gets volume discounts.
 - [ ] Each AWS account gets five times the free-tier services capacity.
 
  
@@ -159,8 +159,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What should you do in order to keep the data on EBS volumes safe? (Choose TWO)
 
 - [ ] Regularly update firmware on EBS devices.
-- [ ] Create EBS snapshots.
-- [ ] Ensure that EBS data is encrypted at rest.
+- [x] Create EBS snapshots.
+- [x] Ensure that EBS data is encrypted at rest.
 - [ ] Store a backup daily in an external drive.
 - [ ] Prevent any unauthorized access to AWS data centers.
 
@@ -171,15 +171,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] By automatically scaling your on-premises resources based on changes in demand.
 - [ ] By automatically scaling your AWS resources using an Elastic Load Balancer.
 - [ ] By reducing interdependencies between application components wherever possible.
-- [ ] By automatically provisioning the required AWS resources based on changes in demand.
+- [x] By automatically provisioning the required AWS resources based on changes in demand.
 
  
 
 ### A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds $2000? (Choose TWO)
 
-- [ ] Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded.
+- [x] Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded.
 - [ ] Configure the Amazon Simple Email Service to send billing alerts to their email address on a daily basis.
-- [ ] Configure the AWS Budgets Service to alert the company when the threshold is exceeded.
+- [x] Configure the AWS Budgets Service to alert the company when the threshold is exceeded.
 - [ ] Configure AWS CloudTrail to automatically delete all AWS resources when the threshold is exceeded.
 - [ ] Configure the Amazon Connect Service to alert the company when the threshold is exceeded.
 
@@ -189,14 +189,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Global Accelerator.
 - [ ] AWS Regions.
-- [ ] AWS Edge Locations.
+- [x] AWS Edge Locations.
 - [ ] AWS Availability Zones.
 
  
 
 ### What does the "Principle of Least Privilege" refer to?
 
-- [ ] You should grant your users only the permissions they need when they need them and nothing more.
+- [x] You should grant your users only the permissions they need when they need them and nothing more.
 - [ ] AllIAM users should have at least the necessary permissions to access the core AWS services.
 - [ ] All trusted IAM users should have access to any AWS service in the respective AWS account.
 - [ ] IAM users should not be granted any permissions; to keep your account safe.
@@ -208,7 +208,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Platform as a Service (PaaS).
 - [ ] Infrastructure as a Service (1aaS).
 - [ ] Software as a Service (SaaS).
-- [ ] Networking as a Service (NaaS).
+- [x] Networking as a Service (NaaS).
 
  
 
@@ -216,14 +216,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] S3 Intelligent-Tiering.
 - [ ] AWS Marketplace.
-- [ ] Amazon S3 Glacier Deep Archive.
+- [x] Amazon S3 Glacier Deep Archive.
 - [ ] Amazon EBS.
 
  
 
 ### Which service provides DNS in the AWS cloud?
 
-- [ ] Route 53.
+- [x] Route 53.
 - [ ] AWS Config.
 - [ ] Amazon CloudFront.
 - [ ] Amazon EMR.
@@ -232,10 +232,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Hundreds of thousands of DDoS attacks are recorded every month worldwide. What service does AWS provide to help protect AWS Customers from these attacks? (Choose TWO)
 
-- [ ] AWS Shield.
+- [x] AWS Shield.
 - [ ] AWS Config.
 - [ ] Amazon Cognito.
-- [ ] AWS WAF.
+- [x] AWS WAF.
 - [ ] AWS KMS.
 
  
@@ -245,7 +245,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS OpsWorks.
 - [ ] AWS Storage Gateway.
 - [ ] Amazon EBS volume.
-- [ ] Amazon ElastiCache.
+- [x] Amazon ElastiCache.
 
  
 
@@ -254,7 +254,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Reserved instances.
 - [ ] Spot instances.
 - [ ] Dedicated instances.
-- [ ] On-demand instances.
+- [x] On-demand instances.
 
  
 
@@ -263,7 +263,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Reserved Instances.
 - [ ] On-demand Instances.
 - [ ] Dedicated Instances.
-- [ ] Spot Instances.
+- [x] Spot Instances.
 
  
 
@@ -272,13 +272,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS VPN.
 - [ ] AWS Direct Connect.
 - [ ] AWS Regions.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 
  
 
 ### Which of the following services allows customers to manage their agreements with AWS?
 
-- [ ] AWS Artifact.
+- [x] AWS Artifact.
 - [ ] AWS Certificate Manager.
 - [ ] AWS Systems Manager.
 - [ ] AWS Organizations.
@@ -288,8 +288,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following are examples of AWS-Managed Services, where AWS is responsible for the operational and maintenance burdens of running the service? (Choose TWO)
 
 - [ ] Amazon VPC.
-- [ ] Amazon DynamoDB.
-- [ ] Amazon Elastic MapReduce.
+- [x] Amazon DynamoDB.
+- [x] Amazon Elastic MapReduce.
 - [ ] AWS IAM.
 - [ ] Amazon Elastic Compute Cloud.
 
@@ -298,7 +298,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Your company has a data store application that requires access to a NoSQL database. Which AWS database offering would meet this requirement?
 
 - [ ] Amazon Aurora.
-- [ ] Amazon DynamoDB.
+- [x] Amazon DynamoDB.
 - [ ] Amazon Elastic Block Store.
 - [ ] Amazon Redshift.
 
@@ -309,7 +309,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Identity and Access Management (IAM) user.
 - [ ] Infrastructure Event Management (IEM) engineer.
 - [ ] AWS Consulting Partners.
-- [ ] Technical Account Manager (TAM).
+- [x] Technical Account Manager (TAM).
 
  
 
@@ -317,14 +317,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] By using Amazon VPC console.
 - [ ] By contacting the AWS Support team.
-- [ ] By using AWS Cost Explorer.
+- [x] By using AWS Cost Explorer.
 - [ ] By contacting the AWS Finance team.
 
  
 
 ### Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?
 
-- [ ] Access keys.
+- [x] Access keys.
 - [ ] Secret token.
 - [ ] UserID.
 - [ ] User name and password.
@@ -334,7 +334,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?
 
 - [ ] Contact the AWS Customer Service team.
-- [ ] Contact the AWS Abuse team.
+- [x] Contact the AWS Abuse team.
 - [ ] Contact the AWS Concierge team.
 - [ ] Contact the AWS Security team.
 
@@ -342,18 +342,18 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Select TWO examples of the AWS shared controls.
 
-- [ ] Patch Management.
+- [x] Patch Management.
 - [ ] IAM Management.
 - [ ] VPC Management.
-- [ ] Configuration Management.
+- [x] Configuration Management.
 - [ ] Data Center operations.
 
  
 
 ### In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
 
-- [ ] ELB.
-- [ ] Auto Scaling.
+- [x] ELB.
+- [x] Auto Scaling.
 - [ ] Amazon Athen.
 - [ ] ECR.
 - [ ] Amazon EC2.
@@ -365,14 +365,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon SNS.
 - [ ] Amazon Kinesis Video Streams.
 - [ ] AWS CloudFormation.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 
  
 
 ### A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?
 
 - [ ] A MySQL database installed on an EC2 instance.
-- [ ] Amazon Aurora.
+- [x] Amazon Aurora.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon Neptune.
 
@@ -380,7 +380,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is the AWS service that enables AWS architects to manage infrastructure as code?
 
-- [ ] AWS CloudFormation.
+- [x] AWS CloudFormation.
 - [ ] AWS Config.
 - [ ] Amazon SES.
 - [ ] Amazon EMR.
@@ -390,7 +390,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Under the shared responsibility model, which of the following is the responsibility of AWS?
 
 - [ ] Client-side encryption.
-- [ ] Configuring infrastructure devices.
+- [x] Configuring infrastructure devices.
 - [ ] Server-side encryption.
 - [ ] Filtering traffic with Security Groups.
 
@@ -398,11 +398,11 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What does the AWS Health Dashboard provide? (Choose TWO)
 
-- [ ] Detailed troubleshooting guidance to address AWS events impacting your resources.
+- [x] Detailed troubleshooting guidance to address AWS events impacting your resources.
 - [ ] Health checks for Auto Scaling instances.
 - [ ] Recommendations for Cost Optimization.
 - [ ] A dashboard detailing vulnerabilities in your applications.
-- [ ] Personalized view of AWS service health.
+- [x] Personalized view of AWS service health.
 
  
 
@@ -410,7 +410,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Lambda.
 - [ ] AWS Config.
-- [ ] Amazon CloudWatch.
+- [x] Amazon CloudWatch.
 - [ ] AWS CloudTrail.
 
  
@@ -420,16 +420,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Shield.
 - [ ] AWS Management Console.
 - [ ] AWS Secrets Manager.
-- [ ] AWS Trusted Advisor.
+- [x] AWS Trusted Advisor.
 
  
 
 ### Which of the following is not a benefit of Amazon S3? (Choose TWO)
 
 - [ ] Amazon S3 provides unlimited storage for any type of data.
-- [ ] Amazon S3 can run any type of application or backend system.
+- [x] Amazon S3 can run any type of application or backend system.
 - [ ] Amazon S3 stores any number of objects, but with object size limits.
-- [ ] Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere.
+- [x] Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere.
 - [ ] Amazon S3 provides 99.999999999% (11 9’s) of data durability.
 
  
@@ -439,8 +439,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Disk disposal.
 - [ ] Controlling physical access to compute resources.
 - [ ] Patching the Network infrastructure.
-- [ ] Setting password complexity rules.
-- [ ] Configuring network access rules.
+- [x] Setting password complexity rules.
+- [x] Configuring network access rules.
 
  
 
@@ -448,7 +448,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Aurora.
 - [ ] Amazon CloudWatch.
-- [ ] AWS Quick Start reference deployments.
+- [x] AWS Quick Start reference deployments.
 - [ ] AWS OpsWorks.
 
  
@@ -458,13 +458,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Elastic RI.
 - [ ] Premium RI.
 - [ ] Standard RI.
-- [ ] Convertible RI.
+- [x] Convertible RI.
 
  
 
 ### A global company with a large number of AWS accounts is seeking a way in which they can centrally manage billing and security policies across all accounts. Which AWS Service will assist them in meeting these goals?
 
-- [ ] AWS Organizations.
+- [x] AWS Organizations.
 - [ ] AWS Trusted Advisor.
 - [ ] IAM User Groups.
 - [ ] AWS Config.
@@ -476,7 +476,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon EBS.
 - [ ] Amazon Instance Store.
 - [ ] Amazon EFS.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 
  
 
@@ -484,14 +484,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Elastic Load Balancer.
 - [ ] AWS Budgets.
-- [ ] AWS Auto Scaling.
+- [x] AWS Auto Scaling.
 - [ ] AWS Cost Explorer.
 
  
 
 ### Which S3 storage class is best for data with unpredictable access patterns?
 
-- [ ] Amazon S3 Intelligent-Tiering.
+- [x] Amazon S3 Intelligent-Tiering.
 - [ ] Amazon S3 Glacier Flexible Retrieval.
 - [ ] Amazon S3 Standard.
 - [ ] Amazon S3 Standard-Infrequent Access.
@@ -500,7 +500,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is the AWS database service that allows you to upload data structured in key-value format?
 
-- [ ] Amazon DynamoDB.
+- [x] Amazon DynamoDB.
 - [ ] Amazon Aurora.
 - [ ] Amazon Redshift.
 - [ ] Amazon RDS.
@@ -509,7 +509,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following is NOT correct regarding Amazon EC2 On-demand instances?
 
-- [ ] You have to pay a start-up fee when launching a new instance for the first time.
+- [x] You have to pay a start-up fee when launching a new instance for the first time.
 - [ ] The on-demand instances follow the AWS pay-as-you-go pricing model.
 - [ ] With on-demand instances, no longer-term commitments or upfront payments are needed.
 - [ ] When using on-demand Linux instances, you are charged per second based on an hourly rate.
@@ -518,8 +518,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A company has moved to AWS recently. Which of the following AWS Services will help ensure that they have the proper security settings? (Choose TWO)
 
-- [ ] AWS Trusted Advisor.
-- [ ] Amazon Inspector.
+- [x] AWS Trusted Advisor.
+- [x] Amazon Inspector.
 - [ ] Amazon SNS.
 - [ ] Amazon CloudWatch.
 - [ ] Concierge Support Team.
@@ -531,7 +531,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Encrypted keys.
 - [ ] Email verification.
 - [ ] AWS KMS.
-- [ ] AWS MFA.
+- [x] AWS MFA.
 
  
 
@@ -539,14 +539,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Knowledge Center.
 - [ ] AWS Health Dashboard.
-- [ ] Infrastructure Event Management.
+- [x] Infrastructure Event Management.
 - [ ] AWS Support Concierge Service.
 
  
 
 ### You work as an on-premises MySQL DBA. The work of database configuration, backups, patching, and DR can be time-consuming and repetitive. Your company has decided to migrate to the AWS Cloud. Which of the following can help save time on database maintenance so you can focus on data architecture and performance?
 
-- [ ] Amazon RDS.
+- [x] Amazon RDS.
 - [ ] Amazon Redshift.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon CloudWatch.
@@ -557,7 +557,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Invest heavily in architecting your environment, as it is not easy to change your design later.
 - [ ] Use AWS reservations to reduce costs when testing your production environment.
-- [ ] Automate wherever possible to make architectural (© ) experimentation easier.
+- [x] Automate wherever possible to make architectural (© ) experimentation easier.
 - [ ] Provision a large compute capacity to handle any spikes in load
 
  
@@ -566,14 +566,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Penetration testing is not allowed in AWS.
 - [ ] Penetration testing is performed automatically by AWS to determine vulnerabilities in your AWS infrastructure.
-- [ ] Penetration testing can be performed by the customer on their own instances without prior authorization from AWS.
+- [x] Penetration testing can be performed by the customer on their own instances without prior authorization from AWS.
 - [ ] The AWS customers are only allowed to perform penetration testing on services managed by AWS.
 
  
 
 ### Which service is used to ensure that messages between software components are not lost if one or more components fail?
 
-- [ ] Amazon SQS.
+- [x] Amazon SQS.
 - [ ] Amazon SES.
 - [ ] AWS Direct Connect.
 - [ ] Amazon Connect.
@@ -583,8 +583,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### The principle “design for failure and nothing will fail” is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)
 
 - [ ] Multi-factor authentication.
-- [ ] Availability Zones.
-- [ ] Elastic Load Balancing.
+- [x] Availability Zones.
+- [x] Elastic Load Balancing.
 - [ ] Penetration testing.
 - [ ] Vertical Scaling.
 
@@ -595,17 +595,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS VPN.
 - [ ] AWS Subnets.
 - [ ] AWS Dedicated Hosts.
-- [ ] Amazon VPC.
+- [x] Amazon VPC.
 
  
 
 ### According to the AWS Shared responsibility model, which of the following are the responsibility of the customer? (Choose TWO)
 
 - [ ] Managing environmental events of AWS data centers.
-- [ ] Protecting the confidentiality of data in transit in Amazon S3.
+- [x] Protecting the confidentiality of data in transit in Amazon S3.
 - [ ] Controlling physical access to AWS Regions.
 - [ ] Ensuring that the underlying EC2 host is configured properly.
-- [ ] Patching applications installed on Amazon EC2.
+- [x] Patching applications installed on Amazon EC2.
 
  
 
@@ -614,8 +614,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon VPC.
 - [ ] Amazon CloudWatch.
 - [ ] Amazon S3.
-- [ ] Amazon EC2.
-- [ ] AWS Lambda.
+- [x] Amazon EC2.
+- [x] AWS Lambda.
 
  
 
@@ -623,7 +623,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon EBS.
 - [ ] Amazon SQS.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon Instance store.
 
  
@@ -632,14 +632,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Instance Password.
 - [ ] Key pairs.
-- [ ] Access Keys.
+- [x] Access Keys.
 - [ ] MFA.
 
  
 
 ### What does Amazon ElastiCache provide?
 
-- [ ] In-memory caching for read-heavy applications.
+- [x] In-memory caching for read-heavy applications.
 - [ ] An Ehcache compatible in-memory data store.
 - [ ] An online software store that allows Customers to launch pre-configured software with just few clicks.
 - [ ] A domain name system in the cloud.
@@ -650,7 +650,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS WAF.
 - [ ] AWS Trusted Advisor.
-- [ ] AWS Organizations.
+- [x] AWS Organizations.
 - [ ] Amazon Config.
 
  
@@ -658,7 +658,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following EC2 instance purchasing options supports the Bring Your Own License (BYOL) model for almost every BYOL scenario?
 
 - [ ] Dedicated Instances.
-- [ ] Dedicated Hosts.
+- [x] Dedicated Hosts.
 - [ ] On-demand Instances.
 - [ ] Reserved Instances.
 
@@ -668,7 +668,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Free support for all enterprise customers.
 - [ ] Automatic data protection.
-- [ ] Reduced Capital Expenditure (CapEx).
+- [x] Reduced Capital Expenditure (CapEx).
 - [ ] AWS holds responsibility for managing customer applications.
 
  
@@ -678,14 +678,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Always use Global Services in your architecture rather than Regional Services.
 - [ ] Always choose to pay as you go.
 - [ ] Treat servers as fixed resources.
-- [ ] Automate wherever possible.
-- [ ] Remove single points of failure.
+- [x] Automate wherever possible.
+- [x] Remove single points of failure.
 
  
 
 ### Which AWS Service can be used to establish a dedicated, private network connection between AWS and your datacenter?
 
-- [ ] AWS Direct Connect.
+- [x] AWS Direct Connect.
 - [ ] Amazon CloudFront.
 - [ ] AWS Snowball.
 - [ ] Amazon Route 53.
@@ -695,7 +695,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You are working on two projects that require completely different network configurations. Which AWS service or feature will allow you to isolate resources and network configurations?
 
 - [ ] Internet gateways.
-- [ ] Virtual Private Cloud.
+- [x] Virtual Private Cloud.
 - [ ] Security Groups.
 - [ ] Amazon CloudFront.
 
@@ -706,13 +706,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon Cognito.
 - [ ] AWS IAM.
 - [ ] Amazon Aurora.
-- [ ] AWS WAF.
+- [x] AWS WAF.
 
  
 
 ### An organization needs to analyze and process a large number of data sets. Which AWS service should they use?
 
-- [ ] Amazon EMR.
+- [x] Amazon EMR.
 - [ ] Amazon MQ.
 - [ ] Amazon SNS.
 - [ ] Amazon SQS.
@@ -723,9 +723,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Monitoring network performance.
 - [ ] Installing software on EC2 instances.
-- [ ] Creating hypervisors.
+- [x] Creating hypervisors.
 - [ ] Configuring Access Control Lists (ACLs).
-- [ ] Hardware maintenance.
+- [x] Hardware maintenance.
 
  
 
@@ -733,7 +733,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Redshift.
 - [ ] Amazon DynamoDB.
-- [ ] Amazon EC2.
+- [x] Amazon EC2.
 - [ ] Amazon RDS.
 
  
@@ -742,7 +742,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] MFA.
 - [ ] Security tokens.
-- [ ] A user name and password.
+- [x] A user name and password.
 - [ ] Access keys.
 
  
@@ -752,15 +752,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] IAM.
 - [ ] An internet gateway.
 - [ ] EBS Snapshot.
-- [ ] AMI.
+- [x] AMI.
 
  
 
 ### What are two advantages of using Cloud Computing over using traditional data centers? (Choose TWO)
 
 - [ ] Reserved Compute capacity.
-- [ ] Eliminating Single Points of Failure (SPOFs).
-- [ ] Distributed infrastructure.
+- [x] Eliminating Single Points of Failure (SPOFs).
+- [x] Distributed infrastructure.
 - [ ] Virtualized compute resources.
 - [ ] Dedicated hosting.
 
@@ -771,8 +771,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Encryption of EBS volumes.
 - [ ] VPC security.
 - [ ] Access permissions.
-- [ ] Hardware patching.
-- [ ] Securing global physical infrastructure.
+- [x] Hardware patching.
+- [x] Securing global physical infrastructure.
 
  
 
@@ -781,7 +781,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] The ability of a system to recover gracefully from failure.
 - [ ] The efficient use of computing resources to meet requirements.
-- [ ] The ability to monitor systems and improve supporting processes and procedures.
+- [x] The ability to monitor systems and improve supporting processes and procedures.
 - [ ] The ability to manage datacenter operations more efficiently.
 
  
@@ -790,24 +790,24 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Edge locations are used by CloudFront to cache the most recent responses.
 - [ ] Edge locations are used by CloudFront to improve your end users’ experience when uploading files.
-- [ ] Edge locations are used by CloudFront to distribute traffic across multiple instances to reduce latency.
+- [x] Edge locations are used by CloudFront to distribute traffic across multiple instances to reduce latency.
 - [ ] Edge locations are used by CloudFront to distribute content to global users with low latency.
 
  
 
 ### What are the change management tools that helps AWS customers audit and monitor all resource changes in their AWS environment? (Choose TWO)
 
-- [ ] AWS CloudTrail.
+- [x] AWS CloudTrail.
 - [ ] Amazon Comprehend.
 - [ ] AWS Transit Gateway.
 - [ ] AWS X-Ray.
-- [ ] AWS Config.
+- [x] AWS Config.
 
  
 
 ### Which of the following services allows you to run containerized applications on a cluster of EC2 instances?
 
-- [ ] Amazon ECS.
+- [x] Amazon ECS.
 - [ ] AWS Data Pipeline.
 - [ ] AWS Cloud9.
 - [ ] AWS Personal Health Dashboard.
@@ -819,14 +819,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] CloudFront.
 - [ ] CloudEndure Migration.
 - [ ] CloudWatch.
-- [ ] CloudTrail.
+- [x] CloudTrail.
 
  
 
 ### Which of the following procedures will help reduce your Amazon S3 costs?
 
 - [ ] Use the Import/Export feature to move old files automatically to Amazon Glacier.
-- [ ] Use the right combination of storage classes based on different use cases.
+- [x] Use the right combination of storage classes based on different use cases.
 - [ ] Pick the right Availability Zone for your S3 bucket.
 - [ ] Move all the data stored in S3 standard to EBS.
 
@@ -835,8 +835,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What are the AWS services/features that can help you maintain a highly available and fault-tolerant architecture in AWS? (Choose TWO)
 
 - [ ] AWS Direct Connect.
-- [ ] Amazon EC2 Auto Scaling.
-- [ ] Elastic Load Balancer.
+- [x] Amazon EC2 Auto Scaling.
+- [x] Elastic Load Balancer.
 - [ ] CloudFormation.
 - [ ] Network ACLs.
 
@@ -844,7 +844,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following activities may help reduce your AWS monthly costs?
 
-- [ ] Enabling Amazon EC2 Auto Scaling for all of your workloads.
+- [x] Enabling Amazon EC2 Auto Scaling for all of your workloads.
 - [ ] Using the AWS Network Load Balancer (NLB) to load balance the incoming HTTP requests.
 - [ ] Removing all of your Cost Allocation Tags.
 - [ ] Deploying your AWS resources across multiple Availability Zones.
@@ -853,7 +853,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is the AWS service/feature that takes advantage of Amazon CloudFront’s globally distributed edge locations to transfer files to S3 with higher upload speeds?
 
-- [ ] S3 Transfer Acceleration.
+- [x] S3 Transfer Acceleration.
 - [ ] AWS WAF.
 - [ ] AWS Snowmobile.
 - [ ] AWS Snowball.
@@ -864,7 +864,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS X-Ray.
 - [ ] Network ACL.
-- [ ] Security Groups.
+- [x] Security Groups.
 - [ ] VPC Flow logs.
 
  
@@ -872,18 +872,18 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS services can be used to improve the performance of a global application and reduce latency for its users? (Choose TWO)
 
 - [ ] AWS KMS.
-- [ ] AWS Global accelerator.
+- [x] AWS Global accelerator.
 - [ ] AWS Direct Connect.
 - [ ] AWS Glue.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 
  
 
 ### Using Amazon RDS falls under the shared responsibility model. Which of the following are customer responsibilities? (Choose TWO)
 
-- [ ] Building the relational database schema.
+- [x] Building the relational database schema.
 - [ ] Performing backups.
-- [ ] Managing the database settings.
+- [x] Managing the database settings.
 - [ ] Patching the database software.
 - [ ] Installing the database software.
 
@@ -893,14 +893,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon DynamoDB.
 - [ ] Amazon SNS.
-- [ ] Amazon RDS.
+- [x] Amazon RDS.
 - [ ] Amazon ElastiCache.
 
  
 
 ### A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
 
-- [ ] APN Consulting Partners.
+- [x] APN Consulting Partners.
 - [ ] AWS TAM.
 - [ ] APN Technology Partners.
 - [ ] AWS Professional Services.
@@ -910,7 +910,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is the AWS serverless service that allows you to run your applications without any administrative burden?
 
 - [ ] Amazon LightSail.
-- [ ] AWS Lambda.
+- [x] AWS Lambda.
 - [ ] Amazon RDS instances.
 - [ ] Amazon EC2 instances.
 
@@ -919,7 +919,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Jessica is managing an e-commerce web application in AWS. The application is hosted on six EC2 instances. One day, three of the instances crashed; but none of her customers were affected. What has Jessica done correctly in this scenario?
 
 - [ ] She has properly built an elastic system.
-- [ ] She has properly built a fault tolerant system.
+- [x] She has properly built a fault tolerant system.
 - [ ] She has properly built an encrypted system.
 - [ ] She has properly built a scalable system.
 
@@ -927,9 +927,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Where can you store files in AWS? (Choose TWO)
 
-- [ ] Amazon EFS.
+- [x] Amazon EFS.
 - [ ] Amazon SNS.
-- [ ] Amazon EBS.
+- [x] Amazon EBS.
 - [ ] Amazon ECS.
 - [ ] Amazon EMR.
 
@@ -937,7 +937,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS service can be used to store and reliably deliver messages across distributed systems?
 
-- [ ] Amazon Simple Queue Service.
+- [x] Amazon Simple Queue Service.
 - [ ] AWS Storage Gateway.
 - [ ] Amazon Simple Email Service.
 - [ ] Amazon Simple Storage Service.
@@ -949,14 +949,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Pay less as AWS grows.
 - [ ] Pay as you go.
 - [ ] Pay less by using more.
-- [ ] Save when you reserve.
+- [x] Save when you reserve.
 
  
 
 ### A company is migrating its on-premises database to Amazon RDS. What should the company do to ensure Amazon RDS costs are kept to a minimum?
 
 - [ ] Right-size before and after migration.
-- [ ] Use a Multi-Region Active-Passive architecture.
+- [x] Use a Multi-Region Active-Passive architecture.
 - [ ] Combine On-demand Capacity Reservations with Saving Plans.
 - [ ] Use a Multi-Region Active-Active architecture.
 
@@ -965,7 +965,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is the primary storage service used by Amazon RDS database instances?
 
 - [ ] Amazon Glacier.
-- [ ] Amazon EBS.
+- [x] Amazon EBS.
 - [ ] Amazon EFS.
 - [ ] Amazon S3.
 
@@ -974,7 +974,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company is developing a new application using a microservices framework. The new application is having performance and latency issues. Which AWS Service should be used to troubleshoot these issues?
 
 - [ ] AWS CodePipeline.
-- [ ] AWS X-Ray.
+- [x] AWS X-Ray.
 - [ ] Amazon Inspector.
 - [ ] AWS CloudTrail.
 
@@ -984,18 +984,18 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Redshift.
 - [ ] AWS Snowball.
-- [ ] Amazon Simple Storage Service.
+- [x] Amazon Simple Storage Service.
 - [ ] Amazon EBS.
-- [ ] Amazon DynamoDB.
+- [x] Amazon DynamoDB.
 
  
 
 ### What are the Amazon RDS features that can be used to improve the availability of your database? (Choose TWO)
 
 - [ ] AWS Regions.
-- [ ] Multi-AZ Deployment.
+- [x] Multi-AZ Deployment.
 - [ ] Automatic patching.
-- [ ] Read Replicas.
+- [x] Read Replicas.
 - [ ] Edge Locations.
 
  
@@ -1005,13 +1005,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Replicate the current resources across multiple Availability Zones within the same region.
 - [ ] Migrate the application to a hosting provider in Asia.
 - [ ] Recreate the website content.
-- [ ] Create a CDN using CloudFront, so that content is cached at Edge Locations close to and in Asia.
+- [x] Create a CDN using CloudFront, so that content is cached at Edge Locations close to and in Asia.
 
  
 
 ### An organization runs many systems and uses many AWS products. Which of the following services enables them to control how each developer interacts with these products?
 
-- [ ] AWS Identity and Access Management.
+- [x] AWS Identity and Access Management.
 - [ ] Amazon RDS.
 - [ ] Network Access Control Lists.
 - [ ] Amazon EMR.
@@ -1021,7 +1021,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Using Amazon EC2 falls under which of the following cloud computing models?
 
 - [ ] Iaas & SaaS.
-- [ ] IaaS.
+- [x] IaaS.
 - [ ] SaaS.
 - [ ] PaaS.
 
@@ -1032,7 +1032,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Strengthen physical security by applying the principle of least privilege.
 - [ ] Ensure that the application runs on hardware from trusted vendors.
 - [ ] Use IAM policies to maintain performance.
-- [ ] Decouple the components of the application so that they run independently.
+- [x] Decouple the components of the application so that they run independently.
 
  
 
@@ -1041,15 +1041,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon EBS.
 - [ ] Amazon SQS.
 - [ ] Amazon Instance store.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 
  
 
 ### Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
 
-- [ ] Active archives.
+- [x] Active archives.
 - [ ] Dynamic websites’ assets.
-- [ ] Long-term analytic data.
+- [x] Long-term analytic data.
 - [ ] Active databases.
 - [ ] Cached data.
 
@@ -1057,7 +1057,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What does Amazon Elastic Beanstalk provide?
 
-- [ ] A PaaS solution to automate application deployment.
+- [x] A PaaS solution to automate application deployment.
 - [ ] A compute engine for Amazon ECS.
 - [ ] A scalable file storage solution for use with AWS and on-premises servers.
 - [ ] A NoSQL database service.
@@ -1068,7 +1068,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Kinesis.
 - [ ] Security groups.
-- [ ] Amazon Inspector.
+- [x] Amazon Inspector.
 - [ ] AWS Network Access Control Lists.
 
  
@@ -1078,15 +1078,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Patch management controls.
 - [ ] Database controls.
 - [ ] Awareness & Training.
-- [ ] Environmental controls.
-- [ ] Physical controls.
+- [x] Environmental controls.
+- [x] Physical controls.
 
  
 
 ### A company needs to host a database in Amazon RDS for at least three years. Which of the following options would be the most cost-effective solution?
 
 - [ ] Reserved instances - No Upfront.
-- [ ] Reserved instances - Partial Upfront.
+- [x] Reserved instances - Partial Upfront.
 - [ ] On-Demand instances.
 - [ ] Spot Instances.
 
@@ -1095,7 +1095,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users’ experience?
 
 - [ ] Elasticity.
-- [ ] Global reach.
+- [x] Global reach.
 - [ ] Data durability.
 - [ ] High availability.
 
@@ -1106,8 +1106,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Batch.
 - [ ] AWS Outposts.
 - [ ] Amazon Lightsail.
-- [ ] Amazon EC2.
-- [ ] AWS Lambda.
+- [x] Amazon EC2.
+- [x] AWS Lambda.
 
  
 
@@ -1116,16 +1116,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Replicate data across multiple Edge Locations worldwide and use Amazon CloudFront to perform automatic failover in the event of an outage.
 - [ ] Deploy AWS resources across multiple Availability Zones within the same AWS Region.
 - [ ] Create point-in-time backups in another subnet and recover this data when a disaster occurs.
-- [ ] Deploy AWS resources to another AWS Region and implement an Active-Active disaster recovery strategy.
+- [x] Deploy AWS resources to another AWS Region and implement an Active-Active disaster recovery strategy.
 
  
 
 ### Which statement is correct with regards to AWS service limits? (Choose TWO)
 
-- [ ] You can contact AWS support to increase the service limits.
+- [x] You can contact AWS support to increase the service limits.
 - [ ] Each IAM user has the same service limit.
 - [ ] There are no service limits on AWS.
-- [ ] You can use the AWS Trusted Advisor to monitor your service limits.
+- [x] You can use the AWS Trusted Advisor to monitor your service limits.
 - [ ] The Amazon Simple Email Service is responsible for sending email notifications when usage approaches a service limit.
 
  
@@ -1135,7 +1135,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Console.
 - [ ] AWS Service Catalog.
 - [ ] AWS OpsWorks.
-- [ ] AWS CLI.
+- [x] AWS CLI.
 
  
 
@@ -1143,9 +1143,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Artifact.
 - [ ] AWS Cloud9.
-- [ ] AWS Direct Connect.
+- [x] AWS Direct Connect.
 - [ ] AWS CloudTrail.
-- [ ] AWS VPN.
+- [x] AWS VPN.
 
  
 
@@ -1154,14 +1154,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS EC2 Auto Recovery.
 - [ ] AWS Auto Scaling.
 - [ ] AWS Network Load Balancer.
-- [ ] AWS Application Load Balancer.
+- [x] AWS Application Load Balancer.
 
  
 
 ### Which of the following AWS offerings is a MySQL-compatible relational database service that can scale capacity automatically based on demand?
 
 - [ ] Amazon Neptune.
-- [ ] Amazon Aurora.
+- [x] Amazon Aurora.
 - [ ] Amazon RDS for SQL Server.
 - [ ] Amazon RDS for PostgreSQL.
 
@@ -1170,16 +1170,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following can help protect your EC2 instances from DDoS attacks? (Choose TWO)
 
 - [ ] AWS CloudHSM.
-- [ ] Security Groups.
+- [x] Security Groups.
 - [ ] AWS Batch.
 - [ ] AWS IAM.
-- [ ] Network Access Control Lists (Network ACLs).
+- [x] Network Access Control Lists (Network ACLs).
 
  
 
 ### What is the AWS data warehouse service that supports a high level of query performance on large amounts of datasets?
 
-- [ ] Amazon Redshift.
+- [x] Amazon Redshift.
 - [ ] Amazon Kinesis.
 - [ ] Amazon DynamoDB.
 - [ ]  Amazon RDS.
@@ -1191,13 +1191,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Application development.
 - [ ] Market research.
 - [ ] Business analysis.
-- [ ] Physical hardware.
+- [x] Physical hardware.
 
  
 
 ### How are AWS customers billed for Linux-based Amazon EC2 usage?
 
-- [ ] EC2 instances will be billed on one second increments, with a minimum of one minute.
+- [x] EC2 instances will be billed on one second increments, with a minimum of one minute.
 - [ ] EC2 instances will be billed on one hour increments, with a minimum of one day.
 - [ ] EC2 instances will be billed on one minute increments, with a minimum of one hour.
 - [ ] EC2 instances will be billed on one day increments, with a minimum of one month.
@@ -1206,9 +1206,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following will impact the price paid for an EC2 instance? (Choose TWO)
 
-- [ ] Instance type.
+- [x] Instance type.
 - [ ] The Availability Zone where the instance is provisioned.
-- [ ] Load balancing.
+- [x] Load balancing.
 - [ ] Number of buckets.
 - [ ] Number of private IPs.
 
@@ -1219,14 +1219,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] By creating an AWS Config template from the old instance and launching a new instance from it.
 - [ ] By creating an EBS Snapshot of the old instance.
 - [ ] By installing Aurora on EC2 and launching a new instance from it.
-- [ ] By creating an AMI from the old instance and (Correct) launching a new instance from it.
+- [x] By creating an AMI from the old instance and (Correct) launching a new instance from it.
 
  
 
 ### A company uses AWS Organizations to manage all of its AWS accounts. Which of the following allows the company to restrict what services and actions are allowed in each individual account?
 
 - [ ] IAM Principals.
-- [ ] AWS Service Control Policies (SCPs).
+- [x] AWS Service Control Policies (SCPs).
 - [ ] IAM policies.
 - [ ] AWS Fargate.
 
@@ -1236,16 +1236,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS allows you to host your applications in multiple regions around the world.
 - [ ] AWS provides customizable hardware at the lowest possible cost.
-- [ ] AWS allows you to provision resources in minutes.
+- [x] AWS allows you to provision resources in minutes.
 - [ ] AWS allows you to pay upfront to reduce costs.
 
  
 
 ### What are the benefits of using the Amazon Relational Database Service? (Choose TWO)
 
-- [ ] Lower administrative burden.
+- [x] Lower administrative burden.
 - [ ] Complete control over the underlying host.
-- [ ] Resizable compute capacity.
+- [x] Resizable compute capacity.
 - [ ] Scales automatically to larger or smaller instance types.
 - [ ] Supports the document and key-value data structure.
 
@@ -1256,7 +1256,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Internet Gateway.
 - [ ] AWS IQ.
 - [ ] AWS Direct Connect.
-- [ ] AWS Site-to-Site VPN.
+- [x] AWS Site-to-Site VPN.
 
  
 
@@ -1265,24 +1265,24 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Enterprise Support.
 - [ ] Developer Support.
 - [ ] Basic Support.
-- [ ] Business Support.
+- [x] Business Support.
 
  
 
 ### Which of the following is used to control network traffic in AWS? (Choose TWO)
 
-- [ ] Network Access Control Lists (NACLs).
+- [x] Network Access Control Lists (NACLs).
 - [ ] Key Pairs.
 - [ ] Access Keys.
 - [ ] IAM Policies.
-- [ ] Security Groups.
+- [x] Security Groups.
 
  
 
 ### A company has developed a media transcoding application in AWS. The application is designed to recover quickly from hardware failures. Which one of the following types of instance would be the most cost-effective choice to use?
 
 - [ ] Reserved instances.
-- [ ] Spot Instances.
+- [x] Spot Instances.
 - [ ] On-Demand instances.
 - [ ] Dedicated instances.
 
@@ -1290,7 +1290,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS Service provides the current status of all AWS Services in all AWS Regions?
 
-- [ ] AWS Service Health Dashboard.
+- [x] AWS Service Health Dashboard.
 - [ ] AWS Management Console.
 - [ ] Amazon CloudWatch.
 - [ ] AWS Personal Health Dashboard.
@@ -1299,7 +1299,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS service or feature can be used to call AWS Services from different programming languages?
 
-- [ ] AWS Software Development Kit.
+- [x] AWS Software Development Kit.
 - [ ] AWS Command Line Interface.
 - [ ] AWS CodeDeploy.
 - [ ] AWS Management Console.
@@ -1309,7 +1309,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Service can be used to register a new domain name?
 
 - [ ] Amazon Personalize.
-- [ ] Amazon Route 53.
+- [x] Amazon Route 53.
 - [ ] AWS KMS.
 - [ ] AWS Config.
 
@@ -1317,17 +1317,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### App development companies move their business to AWS to reduce time-to-market and improve customer satisfaction, what are the AWS automation tools that help them deploy their applications faster? (Choose TWO)
 
-- [ ] AWS CloudFormation.
+- [x] AWS CloudFormation.
 - [ ] AWS Migration Hub.
 - [ ] AWS IAM.
-- [ ] AWS Elastic Beanstalk.
+- [x] AWS Elastic Beanstalk.
 - [ ] Amazon Macie.
 
  
 
 ### Which AWS service provides cost-optimization recommendations?
 
-- [ ] AWS Trusted Advisor.
+- [x] AWS Trusted Advisor.
 - [ ] AWS Pricing Calculator.
 - [ ] Amazon QuickSight.
 - [ ] AWS X-Ray.
@@ -1337,7 +1337,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company has hundreds of VPCs in multiple AWS Regions worldwide. What service does AWS offer to simplify the connection management among the VPCs?
 
 - [ ] VPC Peering.
-- [ ] AWS Transit Gateway.
+- [x] AWS Transit Gateway.
 - [ ] Amazon Connect.
 - [ ] Security Groups.
 
@@ -1346,16 +1346,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is one benefit and one drawback of buying a reserved EC2 instance? (Select TWO)
 
 - [ ] Instances can be shut down by AWS at any time with no notification.
-- [ ] Reserved instances require at least a one-year pricing commitment.
+- [x] Reserved instances require at least a one-year pricing commitment.
 - [ ] There is no additional charge for using dedicated instances.
-- [ ] Reserved instances provide a significant discount compared to on-demand instances.
+- [x] Reserved instances provide a significant discount compared to on-demand instances.
 - [ ]Reserved instances are best suited for periodic workloads.
 
  
 
 ### Why does every AWS Region contain multiple Availability Zones?
 
-- [ ] Multiple Availability Zones allows you to build resilient and highly available architectures.
+- [x] Multiple Availability Zones allows you to build resilient and highly available architectures.
 - [ ] Multiple Availability Zones results in lower total cost compared to deploying in a single Availability Zone.
 - [ ] Multiple Availability Zones allows for data replication and global reach.
 - [ ] Multiple Availability Zones within a region increases the storage capacity available in that region.
@@ -1364,7 +1364,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is the most cost-effective purchasing option for running a set of EC2 instances that must always be available for a period of two months?
 
-- [ ] On-Demand Instances.
+- [x] On-Demand Instances.
 - [ ] Spot Instances.
 - [ ] Reserved Instances - All Upfront.
 - [ ] Reserved Instances - No Upfront.
@@ -1376,14 +1376,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Allows you to exceed AWS service limits.
 - [ ] Reduces application response time between servers and global users.
 - [ ] Increases available compute capacity.
-- [ ] Increases the availability of your application.
+- [x] Increases the availability of your application.
 
  
 
 ### Data security is one of the top priorities of AWS. How does AWS deal with old storage devices that have reached the end of their useful life?
 
 - [ ] AWS sells the old devices to other hosting providers.
-- [ ] AWS destroys the old devices in accordance with industry-standard practices.
+- [x] AWS destroys the old devices in accordance with industry-standard practices.
 - [ ] AWS sends the old devices for remanufacturing.
 - [ ] AWS stores the old devices in a secure place.
 
@@ -1392,9 +1392,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A developer needs to set up an SSL security certificate for a client's eCommerce website in order to use the HTTPS protocol. Which of the following AWS services can be used to deploy the required SSL server certificates? (Choose TWO)
 
 - [ ] Amazon Route 53.
-- [ ] AWS ACM.
+- [x] AWS ACM.
 - [ ] AWS Directory Service.
-- [ ] AWS Identity & Access Management.
+- [x] AWS Identity & Access Management.
 - [ ] AWS Data Pipeline.
 
  
@@ -1402,8 +1402,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following AWS services scale automatically without your intervention? (Choose TWO)
 
 - [ ] Amazon EC2.
-- [ ] Amazon S3.
-- [ ] AWS Lambda.
+- [x] Amazon S3.
+- [x] AWS Lambda.
 - [ ] Amazon EMR.
 - [ ] Amazon EBS.
 
@@ -1412,9 +1412,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company is planning to migrate an application from Amazon EC2 to AWS Lambda to use a serverless architecture. Which of the following will be the responsibility of AWS after migration? (Choose TWO)
 
 - [ ] Application management.
-- [ ] Capacity management.
+- [x] Capacity management.
 - [ ] Access control.
-- [ ] Operating system maintenance.
+- [x] Operating system maintenance.
 - [ ] Data management.
 
  
@@ -1424,7 +1424,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] By distributing traffic across multiple S3 buckets.
 - [ ] By replicating data to multiple availability zones.
 - [ ] By creating database Read Replicas.
-- [ ] By ensuring that only healthy targets receive traffic.
+- [x] By ensuring that only healthy targets receive traffic.
 
  
 
@@ -1432,7 +1432,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] On-demand instances.
 - [ ] Spot instances.
-- [ ] Dedicated instances.
+- [x] Dedicated instances.
 - [ ] Reserved instances.
 
  
@@ -1440,7 +1440,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice to transfer the data to AWS?
 
 - [ ] Snowball.
-- [ ] S3 Transfer Acceleration.
+- [x] S3 Transfer Acceleration.
 - [ ] Snowmobile.
 - [ ] Amazon VPC.
 
@@ -1448,7 +1448,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A company plans to migrate a large amount of archived data to AWS. The archived data must be maintained for a period of 5 years and must be retrievable within 5 hours of a request. What is the most cost-effective AWS storage service to use?
 
-- [ ] Amazon S3 Glacier.
+- [x] Amazon S3 Glacier.
 - [ ] Amazon EFS.
 - [ ] Amazon S3 Standard.
 - [ ] Amazon EBS.
@@ -1459,7 +1459,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Security Groups.
 - [ ] Amazon ECS.
-- [ ] AWS IAM.
+- [x] AWS IAM.
 - [ ] AWS Support.
 
  
@@ -1468,7 +1468,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Premium Support.
 - [ ] Business Support.
-- [ ] Enterprise Support.
+- [x] Enterprise Support.
 - [ ] Standard Support.
 
  
@@ -1476,7 +1476,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company needs to track resource changes using the API call history. Which AWS service can help the company achieve this goal?
 
 - [ ] AWS Config.
-- [ ] Amazon CloudWatch.
+- [x] Amazon CloudWatch.
 - [ ] AWS CloudTrail.
 - [ ] AWS CloudFormation.
 
@@ -1485,8 +1485,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What are the benefits of using an AWS-managed service? (Choose TWO)
 
 - [ ] Provides complete control over the virtual infrastructure.
-- [ ] Allows customers to deliver new solutions faster.
-- [ ] Lowers operational complexity.
+- [x] Allows customers to deliver new solutions faster.
+- [x] Lowers operational complexity.
 - [ ] Eliminates the need to encrypt data.
 - [ ] Allows developers to control all patching related activities.
 
@@ -1494,10 +1494,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following are use cases for Amazon S3? (Choose TWO)
 
-- [ ] Hosting static websites.
+- [x] Hosting static websites.
 - [ ] Hosting websites that require sustained high CPU utilization.
 - [ ] Cost-effective database and log storage.
-- [ ] A media store for the CloudFront service.
+- [x] A media store for the CloudFront service.
 - [ ] Processing data streams at any scale.
 
  
@@ -1506,7 +1506,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Delete all access keys and use passwords instead.
 - [ ] Only share them with trusted people.
-- [ ] Rotate them regularly.
+- [x] Rotate them regularly.
 - [ ] Save them within your application code.
 
  
@@ -1516,7 +1516,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Key Pair.
 - [ ] Access Keys.
 - [ ] SDK.
-- [ ] MFA.
+- [x] MFA.
 
  
 
@@ -1525,7 +1525,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] It improves the performance of AWS resources.
 - [ ] It reduces the time needed to provision AWS resources.
 - [ ] It reduces the number of developers necessary.
-- [ ] It allows for programmatic management of AWS resources.
+- [x] It allows for programmatic management of AWS resources.
 
  
 
@@ -1533,7 +1533,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Storage Gateway.
 - [ ] Amazon S3.
-- [ ] Amazon EBS.
+- [x] Amazon EBS.
 - [ ] Amazon Glacier.
 
  
@@ -1542,14 +1542,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Customers can add all AWS accounts to an AWS Organization, enable Consolidated Billing, and turn off Reserved Instance sharing.
 - [ ] Customers can use Amazon Neptune to track and analyze their usage patterns, detect underutilized reserved instances, and then sell them on the Amazon EC2 Reserved Instance Marketplace.
-- [ ] Customers can use the AWS Budgets service to track the reserved instances usage and set up alert notifications when their utilization drops below the threshold that they define.
+- [x] Customers can use the AWS Budgets service to track the reserved instances usage and set up alert notifications when their utilization drops below the threshold that they define.
 - [ ] Customers can use Amazon CloudTrail to automatically check for unused reservations and get recommendations to reduce their bill.
 
  
 
 ### What is the AWS service that provides five times the performance of a standard MySQL database?
 
-- [ ] Amazon Aurora.
+- [x] Amazon Aurora.
 - [ ] Amazon Redshift.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon Neptune.
@@ -1560,7 +1560,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It enables customers to quickly find descriptions and use cases for AWS services.
 - [ ] It enables customers to explore the different catalogs of AWS services.
-- [ ] It simplifies organizing and governing commonly deployed IT services.
+- [x] It simplifies organizing and governing commonly deployed IT services.
 - [ ] It allows developers to deploy infrastructure on AWS using familiar programming languages.
 
  
@@ -1569,8 +1569,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Protecting credentials.
 - [ ] Logging access activity.
-- [ ] Patching the database software.
-- [ ] Operating system maintenance.
+- [x] Patching the database software.
+- [x] Operating system maintenance.
 - [ ] Creating access policies.
 
  
@@ -1578,7 +1578,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following AWS Services helps with planning application migration to the AWS Cloud?
 
 - [ ] AWS Snowball Migration Service.
-- [ ] AWS Application Discovery Service.
+- [x] AWS Application Discovery Service.
 - [ ] AWS DMS.
 - [ ] AWS Migration Hub.
 
@@ -1587,7 +1587,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company is trying to analyze the costs applied to their AWS account recently. Which of the following provides them the most granular data about their AWS costs and usage?
 
 - [ ] Amazon Machine Image.
-- [ ] AWS Cost Explorer.
+- [x] AWS Cost Explorer.
 - [ ] AWS Cost & Usage Report.
 - [ ] Amazon CloudWatch.
 
@@ -1597,7 +1597,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] An AWS Region is a geographical location with a collection of Edge locations.
 - [ ] An AWS Region is a virtual network dedicated only to a single AWS customer.
-- [ ] An AWS Region is a geographical location with a collection of Availability Zones.
+- [x] An AWS Region is a geographical location with a collection of Availability Zones.
 - [ ] An AWS Region represents the country where the AWS infrastructure exist.
 
  
@@ -1607,7 +1607,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] SNS logs.
 - [ ] SQS logs.
 - [ ] CloudWatch Logs.
-- [ ] CloudTrail logs.
+- [x] CloudTrail logs.
 
  
 
@@ -1615,19 +1615,19 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Availability Zones.
 - [ ] Data sovereignty.
-- [ ] The number of reads and writes per second.
-- [ ] The nature of the queries.
+- [x] The number of reads and writes per second.
+- [x] The nature of the queries.
 - [ ] Software bugs.
 
  
 
 ### What are the benefits of implementing a tagging strategy for AWS resources? (Choose TWO)
 
-- [ ] Quickly identify resources that belong to a specific project.
+- [x] Quickly identify resources that belong to a specific project.
 - [ ] Quickly identify software solutions on AWS.
 - [ ] Track API calls in your AWS account.
 - [ ] Quickly identify deleted resources and their metadata.
-- [ ] Track AWS spending across multiple resources.
+- [x] Track AWS spending across multiple resources.
 
  
 
@@ -1635,28 +1635,28 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Controls that are solely the responsibility of the customer based on the application they are deploying within AWS services.
 - [ ] Controls that a customer inherits from AWS.
-- [ ] Controls that apply to both the infrastructure layer and customer layers.
+- [x] Controls that apply to both the infrastructure layer and customer layers.
 - [ ] Controls that the customer and AWS collaborate together upon to secure the infrastructure.
 
  
 
 ### Which design principles relate to performance efficiency in AWS? (Choose TWO)
 
-- [ ] Build multi-region architectures to better serve global customers.
+- [x] Build multi-region architectures to better serve global customers.
 - [ ] Apply security at all layers.
 - [ ] Implement strong Identity and Access controls.
-- [ ] Use serverless architectures.
+- [x] Use serverless architectures.
 - [ ] Enable audit logging.
 
  
 
 ### Which of the below are responsibilities of the customer when using Amazon EC2? (Choose TWO)
 
-- [ ] Protecting sensitive data.
+- [x] Protecting sensitive data.
 - [ ] Patching of the underlying infrastructure.
 - [ ] Setup and operation of managed databases.
 - [ ] Maintaining consistent hardware components.
-- [ ] Installing and configuring third-party software.
+- [x] Installing and configuring third-party software.
 
  
 
@@ -1664,26 +1664,26 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Free commercial software licenses.
 - [ ] Free technical support.
-- [ ] Elastic resources.
+- [x] Elastic resources.
 - [ ] On-site visits for auditing.
-- [ ] Cost Savings.
+- [x] Cost Savings.
 
  
 
 ### Which of the following AWS services can help you perform security analysis and regulatory compliance auditing? (Choose TWO)
 
-- [ ] Amazon Inspector.
+- [x] Amazon Inspector.
 - [ ] AWS Virtual Private Gateway.
 - [ ] AWS Batch.
 - [ ] Amazon ECS.
-- [ ] AWS Config.
+- [x] AWS Config.
 
  
 
 ### Which of the following is NOT a characteristic of Amazon Elastic Compute Cloud (Amazon EC2)?
 
 - [ ] Amazon EC2 is considered a Serverless Web Service.
-- [ ] Amazon EC2 eliminates the need to invest in hardware upfront.
+- [x] Amazon EC2 eliminates the need to invest in hardware upfront.
 - [ ] Amazon EC2 can launch as many or as few virtual servers as needed.
 - [ ] Amazon EC2 offers scalable computing.
 
@@ -1691,7 +1691,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is the AWS Compute service that executes code only when triggered by events?
 
-- [ ] AWS Lambda.
+- [x] AWS Lambda.
 - [ ] Amazon CloudWatch.
 - [ ] AWS Transit Gateway.
 - [ ] Amazon EC2.
@@ -1701,7 +1701,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers’ requirements. What is the name of these virtual servers in AWS?
 
 - [ ] Amazon EBS Snapshots.
-- [ ] Amazon VPC.
+- [x] Amazon VPC.
 - [ ] AWS Managed Servers.
 - [ ] Amazon EC2 Instances.
 
@@ -1711,7 +1711,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Secrets Manager.
 - [ ] AWS WAF.
-- [ ] AWS CAF.
+- [x] AWS CAF.
 - [ ] Amazon EFS.
 
  
@@ -1719,7 +1719,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### TYMO Cloud Corp is looking forward to migrating their entire on-premises data center to AWS. What tool can they use to perform a cost-benefit analysis of moving to the AWS Cloud?
 
 - [ ] AWS Cost Explorer.
-- [ ] AWS TCO Calculator.
+- [x] AWS TCO Calculator.
 - [ ] AWS Budgets.
 - [ ] AWS Pricing Calculator.
 
@@ -1729,7 +1729,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Using AWS Trusted Advisor to find underutilized resources.
 - [ ] Using AWS CloudTrail to record user activities.
-- [ ] Using AWS CloudFormation to manage infrastructure as code.
+- [x] Using AWS CloudFormation to manage infrastructure as code.
 - [ ] Deploying an application in multiple Availability Zones.
 
  
@@ -1737,7 +1737,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Why do many startup companies prefer AWS over traditional on-premises solutions? (Choose TWO)
 
 - [ ] AWS allows them to pay later when their business succeed.
-- [ ] AWS can build complete data centers faster than any other Cloud provider.
+- [x] AWS can build complete data centers faster than any other Cloud provider.
 - [ ] Using AWS, they can reduce time-to-market by focusing on business activities rather than on building and managing data centers.
 - [ ] AWS removes the need to invest in operational expenditure.
 - [ ] Using AWS allows companies to replace large capital expenditure with low variable costs.
@@ -1746,19 +1746,19 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What are the benefits of using DynamoDB? (Choose TWO)
 
-- [ ] Automatically scales to meet required throughput capacity.
+- [x] Automatically scales to meet required throughput capacity.
 - [ ] Provides resizable instances to match the current demand.
 - [ ] Supports both relational and non-relational data models.
-- [ ] Offers extremely low (single-digit millisecond) latency.
+- [x] Offers extremely low (single-digit millisecond) latency.
 - [ ] Supports the most popular NoSQL database engines such as CouchDB and MongoDB.
 
  
 
 ### Which of the following can be used to protect data at rest on Amazon S3? (Choose TWO)
 
-- [ ] Versioning.
+- [x] Versioning.
 - [ ] Deduplication.
-- [ ] Permissions.
+- [x] Permissions.
 - [ ] Decryption.
 - [ ] Conversion.
 
@@ -1766,9 +1766,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### As part of the AWS Migration Acceleration Program (MAP), what does AWS provide to accelerate Enterprise adoption of AWS? (Choose TWO)
 
-- [ ] AWS Partners.
+- [x] AWS Partners.
 - [ ] AWS Artifact.
-- [ ] AWS Professional Services.
+- [x] AWS Professional Services.
 - [ ] Amazon Athena.
 - [ ] Amazon PinPoint.
 
@@ -1777,7 +1777,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### AWS recommends some practices to help organizations avoid unexpected charges on their bill. Which of the following is NOT one of these practices?
 
 - [ ] Deleting unused EBS volumes after terminating an EC2instance.
-- [ ] Deleting unused AutoScaling launch (Correct) configuration.
+- [x] Deleting unused AutoScaling launch (Correct) configuration.
 - [ ] Deleting unused Elastic Load Balancers.
 - [ ] Releasing unused Elastic IPs after terminating an EC2instance.
 
@@ -1786,7 +1786,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is the AWS tool that can help a company visualize their AWS spending in the last few months?
 
 - [ ] AWS Cost Explorer.
-- [ ] AWS Pricing Calculator.
+- [x] AWS Pricing Calculator.
 - [ ] AWS Budgets.
 - [ ] AWS Consolidated Billing.
 
@@ -1796,9 +1796,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Running penetration tests.
 - [ ] Reserving capacity.
-- [ ] Data center operations.
+- [x] Data center operations.
 - [ ] Auditing and regulatory compliance.
-- [ ] Infrastructure security.
+- [x] Infrastructure security.
 
  
 
@@ -1806,7 +1806,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Simple Email Service (Amazon SES).
 - [ ] Amazon Simple Storage Service (Amazon S3).
-- [ ] Amazon Simple Notification Service (Amazon SNS).
+- [x] Amazon Simple Notification Service (Amazon SNS).
 - [ ] Amazon Simple Queue Service (Amazon SQS).
 
  
@@ -1815,9 +1815,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS CodeDeploy.
 - [ ] AWS Quick Starts.
-- [ ] AWS CloudFormation.
+- [x] AWS CloudFormation.
 - [ ] AWS DMS.
-- [ ] AWS Management Console.
+- [x] AWS Management Console.
 
  
 
@@ -1825,7 +1825,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Low monthly instance maintenance costs.
 - [ ] Low-cost instance tagging.
-- [ ] Per-second instance billing.
+- [x] Per-second instance billing.
 - [ ] Low instance start-up fees.
 
  
@@ -1833,7 +1833,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Group assists customers in achieving their desired business outcomes?
 
 - [ ] AWS Security Team.
-- [ ] AWS Professional Services.
+- [x] AWS Professional Services.
 - [ ] AWS Trusted Advisor.
 - [ ] AWS Concierge Support Team.
 
@@ -1841,7 +1841,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS service or feature is used to manage the keys used to encrypt customer data?
 
-- [ ] AWS KMS.
+- [x] AWS KMS.
 - [ ] AWS Service Control Policies (SCPs).
 - [ ] Multi-Factor Authentication (MFA).
 - [ ] Amazon Macie.
@@ -1851,7 +1851,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Service allows customers to download AWS SOC & PCI reports?
 
 - [ ] AWS Well-Architected Tool.
-- [ ] AWS Artifact.
+- [x] AWS Artifact.
 - [ ] AWS Glue.
 - [ ] Amazon Chime.
 
@@ -1861,14 +1861,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Least Privilege.
 - [ ] Pilot Light.
-- [ ] Fault Tolerance.
+- [x] Fault Tolerance.
 - [ ] Multi-threading.
 
  
 
 ### You decide to buy a reserved instance for a term of one year. Which option provides the largest total discount?
 
-- [ ] All up-front reservation.
+- [x] All up-front reservation.
 - [ ] All reserved instance payment options provide the same discount level.
 - [ ] Partial up-front reservation.
 - [ ] No up-front reservation.
@@ -1877,9 +1877,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What features does AWS offer to help protect your data in the Cloud? (Choose TWO)
 
-- [ ] Access control.
+- [x] Access control.
 - [ ] Physical MFA devices.
-- [ ] Data encryption.
+- [x] Data encryption.
 - [ ] Unlimited storage.
 - [ ] Load balancing.
 
@@ -1889,7 +1889,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] 3 hours for the Linux instance and 5 hours for the CentOS instance.
 - [ ] 2 hours, 5 minutes and 9 seconds for the Linux instance and 4 hours, 23 minutes and 7 seconds for the CentOS instance.
-- [ ] 2 hours, 5 minutes and 9 seconds for the Linux instance and 5 hours for the CentOS instance.
+- [x] 2 hours, 5 minutes and 9 seconds for the Linux instance and 5 hours for the CentOS instance.
 - [ ] 3 hours for the Linux instance and 4 hours, 23 minutes and 7 seconds for the CentOS instance.
 
  
@@ -1898,16 +1898,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Trusted Advisor.
 - [ ] AWS Operations Support.
-- [ ] AWS Support API.
+- [x] AWS Support API.
 - [ ] AWS Personal Health Dashboard.
 
  
 
 ### Which methods can be used by customers to interact with AWS Identity and Access Management (IAM)? (Choose TWO)
 
-- [ ] AWS CLI.
+- [x] AWS CLI.
 - [ ] AWS Security Groups.
-- [ ] AWS SDKs.
+- [x] AWS SDKs.
 - [ ] AWS Network Access Control Lists.
 - [ ] AWS CodeCommit.
 
@@ -1917,8 +1917,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Resource Groups.
 - [ ] IAM Policies.
-- [ ] IAM Roles.
-- [ ] IAM Users.
+- [x] IAM Roles.
+- [x] IAM Users.
 - [ ] AWS Organizations.
 
  
@@ -1928,14 +1928,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Database Snapshots.
 - [ ] Multi-AZ Deployments.
 - [ ] Automated Backups.
-- [ ] Read Replicas.
+- [x] Read Replicas.
 
  
 
 ### How does AWS notify customers about security and privacy events pertaining to AWS services?
 
 - [ ] Using the AWS ACM service.
-- [ ] Using Security Bulletins.
+- [x] Using Security Bulletins.
 - [ ] Using the AWS Management Console.
 - [ ] Using Compliance Resources.
 
@@ -1945,7 +1945,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] IAM Users.
 - [ ] Key Pair.
-- [ ] IAM Roles.
+- [x] IAM Roles.
 - [ ] IAM Groups.
 
  
@@ -1953,7 +1953,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company has a web application that is hosted on a single EC2 instance and is approaching 100 percent CPU Utilization during peak loads. Rather than scaling the server vertically, the company has decided to deploy three Amazon EC2 instances in parallel and to distribute traffic across the three servers. What AWS Service should the company use to distribute the traffic evenly?
 
 - [ ] AWS Global Accelerator.
-- [ ] AWS Application Load Balancer (ALB).
+- [x] AWS Application Load Balancer (ALB).
 - [ ] Amazon CloudFront.
 - [ ] Transit VPC.
 
@@ -1963,7 +1963,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Use Software test automation tools.
 - [ ] Use AWS CodeDeploy to build and automate your AWS environment.
-- [ ] Use code to provision and operate your AWS infrastructure.
+- [x] Use code to provision and operate your AWS infrastructure.
 - [ ] Migrate all of your applications to a dedicated host.
 
  
@@ -1972,7 +1972,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Restrict any API call made through SDKs or CLI.
 - [ ] Create one IAM account for each department in the company (Development, QA, Production), and share it across all staff in that department.
-- [ ] Require Multi-Factor Authentication (MFA) (Correct) for all IAM User access.
+- [x] Require Multi-Factor Authentication (MFA) (Correct) for all IAM User access.
 - [ ] Set up two login passwords.
 
  
@@ -1980,7 +1980,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Service offers volume discounts based on usage?
 
 - [ ] Amazon VPC.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon Lightsail.
 - [ ] AWS Cost Explorer.
 
@@ -1989,8 +1989,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following factors should be considered when determining the region in which AWS Resources will be deployed? (Choose TWO)
 
 - [ ] The AWS Region’s security level.
-- [ ] Data sovereignty.
-- [ ] Cost.
+- [x] Data sovereignty.
+- [x] Cost.
 - [ ] The planned number of VPCs.
 - [ ] Geographic proximity to the company's location.
 
@@ -2000,7 +2000,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon EFS.
 - [ ] Amazon Neptune.
-- [ ] Amazon ElastiCache.
+- [x] Amazon ElastiCache.
 - [ ] DAX.
 
  
@@ -2008,7 +2008,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What are the advantages of using Auto Scaling Groups for EC2 instances?
 
 - [ ] Auto Scaling Groups caches the most recent responses at global edge locations to reduce latency and improve performance.
-- [ ] Auto Scaling Groups scales EC2 instances in multiple Availability Zones to increase application availability and fault tolerance.
+- [x] Auto Scaling Groups scales EC2 instances in multiple Availability Zones to increase application availability and fault tolerance.
 - [ ] Auto Scaling Groups scales EC2 instances across multiple regions to reduce latency for global users.
 - [ ] Auto Scaling Groups distributes application traffic across multiple Availability Zones to enhance performance.
 
@@ -2018,25 +2018,25 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS helps customers invest more in capital expenditures.
 - [ ] AWS automates all infrastructure operations, so customers save more on human resources costs.
-- [ ] AWS continues to lower the cost of cloud computing for its customers.
+- [x] AWS continues to lower the cost of cloud computing for its customers.
 - [ ] AWS secures AWS resources at no additional charge.
 
  
 
 ### Which of the following are examples of the customer’s responsibility to implement “security IN the cloud”? (Choose TWO)
 
-- [ ] Building a schema for an application.
+- [x] Building a schema for an application.
 - [ ] Replacing physical hardware.
 - [ ] Creating a new hypervisor.
 - [ ] Patch management of the underlying infrastructure.
-- [ ] File system encryption.
+- [x] File system encryption.
 
  
 
 ### Which of the following is a type of MFA device that customers can use to protect their AWS resources?
 
 - [ ] AWS CloudHSM.
-- [ ] U2F Security Key.
+- [x] U2F Security Key.
 - [ ] AWS Access Keys.
 - [ ] AWS Key Pair.
 
@@ -2045,7 +2045,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company is seeking to deploy an existing .NET application onto AWS as quickly as possible. Which AWS Service should the customer use to achieve this goal?
 
 - [ ] Amazon SNS.
-- [ ] AWS Elastic Beanstalk.
+- [x] AWS Elastic Beanstalk.
 - [ ] AWS Systems Manager.
 - [ ] AWS Trusted Advisor.
 
@@ -2054,9 +2054,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is NOT a factor when estimating the costs of Amazon EC2? (Choose TWO)
 
 - [ ] The amount of time the instances will be running.
-- [ ] Number of security groups.
+- [x] Number of security groups.
 - [ ] Allocated Elastic IP Addresses.
-- [ ] Number of Hosted Zones.
+- [x] Number of Hosted Zones.
 - [ ] Number of instances.
 
  
@@ -2064,7 +2064,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Service helps enterprises extend their on-premises storage to AWS in a cost-effective manner?
 
 - [ ] AWS Data Pipeline.
-- [ ] AWS Storage Gateway.
+- [x] AWS Storage Gateway.
 - [ ] Amazon Aurora.
 - [ ] Amazon EFS.
 
@@ -2072,7 +2072,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A company is building an online cloud storage platform. They need a storage service that can scale capacity automatically, while minimizing cost. Which AWS storage service should the company use to meet these requirements?
 
-- [ ] Amazon Simple Storage Service.
+- [x] Amazon Simple Storage Service.
 - [ ] Amazon Elastic Block Store.
 - [ ] Amazon Elastic Container Service.
 - [ ] AWS Storage Gateway.
@@ -2084,13 +2084,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] EBS and S3 are accessible only to the root account owner.
 - [ ] The systems administrator must contact AWS Support first to activate his new IAM account.
 - [ ] There is not enough space in S3 to store the snapshots.
-- [ ] There is a non-explicit deny to all new users.
+- [x] There is a non-explicit deny to all new users.
 
  
 
 ### An external auditor is requesting a log of all accesses to the AWS resources in the company’s account. Which of the following services will provide the auditor with the requested information?
 
-- [ ] AWS CloudTrail.
+- [x] AWS CloudTrail.
 - [ ] Amazon CloudFront.
 - [ ] AWS CloudFormation.
 - [ ] Amazon CloudWatch.
@@ -2099,7 +2099,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the below options is true of Amazon Cloud Directory?
 
-- [ ] Amazon Cloud Directory allows the organization of hierarchies of data across multiple dimensions.
+- [x] Amazon Cloud Directory allows the organization of hierarchies of data across multiple dimensions.
 - [ ] Amazon Cloud Directory enables the analysis of video and data streams in real time.
 - [ ] Amazon Cloud Directory allows users to access AWS with their existing Active Directory credentials.
 - [ ] Amazon Cloud Directory allows for registration and management of domain names.
@@ -2111,13 +2111,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] 12 hours.
 - [ ] 15 minutes.
 - [ ] 24 hours.
-- [ ] One hour.
+- [x] One hour.
 
  
 
 ### Which of the below options is a best practice for making your application on AWS highly available?
 
-- [ ] Deploy the application to at least two Availability Zones.
+- [x] Deploy the application to at least two Availability Zones.
 - [ ] Use Elastic Load Balancing (ELB) across multiple AWS Regions.
 - [ ] Deploy the application code on at least two servers in the same Availability Zone.
 - [ ] Rewrite the application code to handle all incoming requests.
@@ -2126,8 +2126,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following should be taken into account when performing a TCO analysis regarding the costs of running an application on AWS VS on-premises? (Choose TWO)
 
-- [ ] Labor and IT costs.
-- [ ] Cooling and power consumption.
+- [x] Labor and IT costs.
+- [x] Cooling and power consumption.
 - [ ] Amazon EBS computing power.
 - [ ] Software architecture.
 - [ ] Software compatibility.
@@ -2139,15 +2139,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Basic Support.
 - [ ] AWS Developer Support.
 - [ ] AWS Business Support.
-- [ ] AWS Enterprise Support.
+- [x] AWS Enterprise Support.
 
  
 
 ### Which of the following AWS offerings are serverless services? (Choose TWO)
 
 - [ ] Amazon EC2.
-- [ ] AWS Lambda.
-- [ ] Amazon DynamoDB.
+- [x] AWS Lambda.
+- [x] Amazon DynamoDB.
 - [ ] Amazon EMR.
 - [ ] Amazon RDS.
 
@@ -2156,7 +2156,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS service enables you to quickly purchase and deploy SSL/TLS certificates?
 
 - [ ] Amazon GuardDuty.
-- [ ] AWS ACM.
+- [x] AWS ACM.
 - [ ] Amazon Detective.
 - [ ] AWS WAF.
 
@@ -2165,7 +2165,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Service provides integration with Chef to automate the configuration of EC2 instances?
 
 - [ ] AWS Config.
-- [ ] AWS OpsWorks.
+- [x] AWS OpsWorks.
 - [ ] AutoScaling.
 - [ ] AWS CloudFormation.
 
@@ -2175,14 +2175,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon EBS.
 - [ ] Amazon EFS.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon Instance Store.
 
  
 
 ### Which of the following services can be used to monitor the HTTP and HTTPS requests that are forwarded to Amazon CloudFront?
 
-- [ ] AWS WAF.
+- [x] AWS WAF.
 - [ ] Amazon CloudWatch.
 - [ ] AWS Cloud9.
 - [ ] AWS CloudTrail.
@@ -2194,7 +2194,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] On-demand Instances.
 - [ ] Dedicated Hosts.
 - [ ] Spot Instances.
-- [ ] Reserved Instances.
+- [x] Reserved Instances.
 
  
 
@@ -2202,7 +2202,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Create an IAM role and attach a policy with Amazon DynamoDB access permissions.
 - [ ] Create an IAM role and attach a policy with Administrator access permissions.
-- [ ] Create an IAM user and attach a policy with Amazon DynamoDB access permissions.
+- [x] Create an IAM user and attach a policy with Amazon DynamoDB access permissions.
 - [ ] Create an IAM user and attach a policy with Administrator access permissions.
 
  
@@ -2211,7 +2211,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Generate new IAM access keys every time you delegate permissions.
 - [ ] Store the required AWS credentials directly within the application code.
-- [ ] Use temporary security credentials (IAM roles) instead of long-term access keys.
+- [x] Use temporary security credentials (IAM roles) instead of long-term access keys.
 - [ ] Do nothing; Applications that run on Amazon EC2 instances do not need permission to interact with other AWS services or resources.
 
  
@@ -2219,7 +2219,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following will help AWS customers save on costs when migrating their workloads to AWS?
 
 - [ ] Use servers instead of managed services.
-- [ ] Use existing third-party software licenses on AWS.
+- [x] Use existing third-party software licenses on AWS.
 - [ ] Migrate production workloads to AWS edge locations instead of AWS Regions.
 - [ ] Use AWS Outposts to run all workloads in a cost-optimized environment.
 
@@ -2227,7 +2227,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### An organization has a legacy application designed using monolithic-based architecture. Which AWS Service can be used to decouple the components of the application?
 
-- [ ] Amazon SQS.
+- [x] Amazon SQS.
 - [ ] Virtual Private Gateway.
 - [ ] AWS Artifact.
 - [ ] Amazon CloudFront.
@@ -2237,8 +2237,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following can be used to enable the Virtual Multi-Factor Authentication? (Choose TWO)
 
 - [ ] Amazon Connect.
-- [ ] AWS CLI.
-- [ ] AWS Identity and Access Management (IAM).
+- [x] AWS CLI.
+- [x] AWS Identity and Access Management (IAM).
 - [ ] Amazon SNS.
 - [ ] Amazon Virtual Private Cloud.
 
@@ -2247,7 +2247,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### According to best practices, which of the below options is best suited for processing a large number of binary files?
 
 - [ ] Vertically scaling EC2 instances.
-- [ ] Running RDS instances in parallel.
+- [x] Running RDS instances in parallel.
 - [ ] Vertically scaling RDS instances.
 - [ ] Running EC2 instances in parallel.
 
@@ -2256,7 +2256,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company is planning to use Amazon S3 and Amazon CloudFront to distribute its video courses globally. What tool can the company use to estimate the costs of these services?
 
 - [ ] AWS Cost Explorer.
-- [ ] AWS Pricing Calculator.
+- [x] AWS Pricing Calculator.
 - [ ] AWS Budgets.
 - [ ] AWS Cost & Usage Report.
 
@@ -2267,15 +2267,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Stop all running services and open an investigation.
 - [ ] Give your root account password to AWS Support so that they can assistin troubleshooting and securing the account.
 - [ ] Check the AWS CloudTrail logs and delete all IAM users that have access to your resources.
-- [ ] Open an investigation and delete any potentially compromised IAM users.
-- [ ] Change your AWS root account password and the passwords of any IAM users.
+- [x] Open an investigation and delete any potentially compromised IAM users.
+- [x] Change your AWS root account password and the passwords of any IAM users.
 
  
 
 ### A key practice when designing solutions on AWS is to minimize dependencies between components so that the failure of a single component does not impact other components. What is this practice called?
 
 - [ ] Elastic coupling.
-- [ ] Loosely coupling.
+- [x] Loosely coupling.
 - [ ] Scalable coupling.
 - [ ] Tightly coupling.
 
@@ -2283,7 +2283,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS Service offers an NFS file system that can be mounted concurrently from multiple EC2 instances?
 
-- [ ] Amazon Elastic File System.
+- [x] Amazon Elastic File System.
 - [ ] Amazon Simple Storage Service.
 - [ ] Amazon Elastic Block Store.
 - [ ] AWS Storage Gateway.
@@ -2295,25 +2295,25 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Create private connection to your data center.
 - [ ] Achieve global high availability.
 - [ ] Automate the process of provisioning new compute resources.
-- [ ] Make synchronous replication of your data possible.
+- [x] Make synchronous replication of your data possible.
 
  
 
 ### Which of the following are true regarding the languages that are supported on AWS Lambda? (Choose TWO)
 
 - [ ] Lambda only supports Python and Node.js, but third party plugins are available to convert code in other languages to these formats.
-- [ ] Lambda natively supports a number of programming languages such as Node.js, Python, and Java.
+- [x] Lambda natively supports a number of programming languages such as Node.js, Python, and Java.
 - [ ] Lambda is AWS’ proprietary programming language for microservices.
 - [ ] Lambda doesn’t support programming languages; it is a serverless compute service.
-- [ ] Lambda can support any programming language using an API.
+- [x] Lambda can support any programming language using an API.
 
  
 
 ### What are the capabilities of AWS X-Ray? (Choose TWO)
 
 - [ ] Automatically decouples application components.
-- [ ] Facilitates tracking of user requests to identify application issues.
-- [ ] Helps improve application performance.
+- [x] Facilitates tracking of user requests to identify application issues.
+- [x] Helps improve application performance.
 - [ ] Deploys applications to Amazon EC2 instances.
 - [ ] Deploys applications to on-premises servers.
 
@@ -2324,15 +2324,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Edge locations are located in separate Availability Zones worldwide to serve global customers.
 - [ ] An availability zone exists within an edge location to distribute content globally with low latency.
 - [ ] An Availability Zone is a geographic location where AWS provides multiple, physically separated and isolated edge locations.
-- [ ] An AWS Availability Zone is an isolated location within an AWS Region, however edge locations are located in multiple cities worldwide.
+- [x] An AWS Availability Zone is an isolated location within an AWS Region, however edge locations are located in multiple cities worldwide.
 
  
 
 ### Which features are included in the AWS Business Support Plan? (Choose TWO)
 
-- [ ] 24x7 access to customer service.
+- [x] 24x7 access to customer service.
 - [ ] Access to Cloud Support Engineers via email only during business hours.
-- [ ] Access to the Infrastructure Event Management (IEM) feature for additional fee.
+- [x] Access to the Infrastructure Event Management (IEM) feature for additional fee.
 - [ ] 24x7 access to the TAM feature.
 - [ ] Partial access to the core Trusted Advisor checks.
 
@@ -2342,14 +2342,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon GuardDuty.
 - [ ] Amazon Personalize.
-- [ ] Amazon Cognito.
+- [x] Amazon Cognito.
 - [ ] AWS IAM.
 
  
 
 ### Which AWS Service allows customers to create a template that programmatically defines policies and configurations of all AWS resources as code and so that the same template can be reused among multiple projects?
 
-- [ ] AWS CloudFormation.
+- [x] AWS CloudFormation.
 - [ ] AWS Config.
 - [ ] AWS CloudTrail.
 - [ ] AWS Auto Scaling.
@@ -2361,16 +2361,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Eliminates the need to monitor servers and applications.
 - [ ] Manages all the compliance and auditing tasks.
 - [ ] Provides custom hardware to meet any specification.
-- [ ] Eliminates the need to guess on infrastructure capacity needs.
-- [ ] Enables customers to trade their capital expenses for operational expenses.
+- [x] Eliminates the need to guess on infrastructure capacity needs.
+- [x] Enables customers to trade their capital expenses for operational expenses.
 
  
 
 ### A customer is planning to migrate their Microsoft SQL Server databases to AWS. Which AWS Services can the customer use to run their Microsoft SQL Server database on AWS? (Choose TWO)
 
 - [ ] AWS Fargate.
-- [ ] Amazon Elastic Compute Cloud.
-- [ ] Amazon RDS.
+- [x] Amazon Elastic Compute Cloud.
+- [x] Amazon RDS.
 - [ ] AWS Database Migration service (DMS).
 - [ ] AWS Lambda.
 
@@ -2379,7 +2379,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Service can perform health checks on Amazon EC2 instances?
 
 - [ ] AWS CloudFormation.
-- [ ] Amazon Route 53.
+- [x] Amazon Route 53.
 - [ ] Amazon Chime.
 - [ ] Amazon Aurora.
 
@@ -2390,17 +2390,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon Comprehend.
 - [ ] AWS IAM.
 - [ ] Amazon Polly.
-- [ ] Amazon Rekognition.
+- [x] Amazon Rekognition.
 
  
 
 ### Which of the following are examples of AWS-managed databases? (Choose TWO)
 
-- [ ] Amazon Neptune.
+- [x] Amazon Neptune.
 - [ ] Amazon CloudSearch.
 - [ ] Microsoft SQL Server on Amazon EC2.
 - [ ] MySQL on Amazon EC2.
-- [ ] Amazon RDS for MySQL.
+- [x] Amazon RDS for MySQL.
 
  
 
@@ -2408,14 +2408,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] EC2 On-Demand Instances.
 - [ ] EC2 Reserved Instances - No Upfront.
-- [ ] EC2 Spot Instances.
+- [x] EC2 Spot Instances.
 - [ ] EC2 Reserved Instances - All Upfront.
 
  
 
 ### There is a requirement to grant a DevOps team full administrative access to all resources in an AWS account. Who can grant them these permissions?
 
-- [ ] AWS account owner.
+- [x] AWS account owner.
 - [ ] AWS technical account manager.
 - [ ] AWS security team.
 - [ ] AWS cloud support engineers.
@@ -2425,7 +2425,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You need to migrate a large number of on-premises workloads to AWS. Which AWS service is the most appropriate?
 
 - [ ] AWS File Transfer Acceleration.
-- [ ] AWS Server Migration Service.
+- [x] AWS Server Migration Service.
 - [ ] AWS Database Migration Service.
 - [ ] AWS Application Discovery Service.
 
@@ -2435,8 +2435,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It helps AWS customers deploy their applications without worrying about the underlying infrastructure.
 - [ ] It applies advanced IAM security features automatically.
-- [ ] It automates the provisioning and updating of your infrastructure in a safe and controlled manner.
-- [ ] It allows you to model your entire infrastructure in just a text file.
+- [x] It automates the provisioning and updating of your infrastructure in a safe and controlled manner.
+- [x] It allows you to model your entire infrastructure in just a text file.
 - [ ] It compiles and builds application code in a timely manner.
 
  
@@ -2445,14 +2445,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] On-premises.
 - [ ] Mixed.
-- [ ] Hybrid.
+- [x] Hybrid.
 - [ ] Cloud.
 
  
 
 ### A company is hosting business critical workloads in an AWS Region. To protect against data loss and ensure business continuity, a mirror image of the current AWS environment should be created in another AWS Region. Company policy requires that the standby environment must be available in minutes in case of an outage in the primary AWS Region. Which AWS service can be used to meet these requirements?
 
-- [ ] CloudEndure Disaster Recovery.
+- [x] CloudEndure Disaster Recovery.
 - [ ] CloudEndure Migration.
 - [ ] AWS Backup.
 - [ ] AWS Glue.
@@ -2464,14 +2464,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] S3 Standard-IA.
 - [ ] S3 Intelligent-Tiering.
 - [ ] S3 Glacier Deep Archive.
-- [ ] S3 Standard.
+- [x] S3 Standard.
 
  
 
 ### You want to create a backup of your data in another geographical location. Where should you create this backup?
 
 - [ ] In another Edge location.
-- [ ] In another Region.
+- [x] In another Region.
 - [ ] In another VPC.
 - [ ] In another Availability Zone.
 
@@ -2480,7 +2480,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which statement is true in relation to the security of Amazon EC2?
 
 - [ ] You should use instance store volumes to store login data.
-- [ ] You should regularly patch the operating system and applications on your EC2 instances.
+- [x] You should regularly patch the operating system and applications on your EC2 instances.
 - [ ] You should deploy critical components of your application in the Availability Zone that you trust.
 - [ ] You can track all API calls using Amazon Athena.
 
@@ -2491,14 +2491,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Cost comparisons between AWS Cloud environments and on-premises environments.
 - [ ] Accurate estimates of AWS service costs based on your expected usage.
 - [ ] Consolidated billing.
-- [ ] Highly accurate cost forecasts for up to 12 months ahead.
+- [x] Highly accurate cost forecasts for up to 12 months ahead.
 
  
 
 ### Which of the following is a feature of Amazon RDS that performs automatic failover when the primary database fails to respond?
 
 - [ ] RDS Single-AZ.
-- [ ] RDS Write Replica.
+- [x] RDS Write Replica.
 - [ ] RDS Snapshots.
 - [ ] RDS Multi-AZ.
 
@@ -2509,13 +2509,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Deleting all EBS volumes attached to the instances.
 - [ ] You cannot minimize charges for on-demand instances.
 - [ ] Terminating the instances.
-- [ ] Stopping the instances.
+- [x] Stopping the instances.
 
  
 
 ### Which of the following strategies helps protect your AWS root account?
 
-- [ ] Delete root user access keys if you do not need them.
+- [x] Delete root user access keys if you do not need them.
 - [ ] Apply MFA for the root account and use it for all of your work.
 - [ ] Access the root account only from your personal Mobile Phone.
 - [ ] Only share your AWS account password or access keys with trusted persons.
@@ -2524,9 +2524,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following are factors should be considered for Amazon EBS pricing? (Choose TWO)
 
-- [ ] The size of volumes provisioned per month.
+- [x] The size of volumes provisioned per month.
 - [ ] The compute capacity you consume.
-- [ ] The amount of data you have stored in snapshots.
+- [x] The amount of data you have stored in snapshots.
 - [ ] The compute time you consume.
 - [ ] The number of Snowball storage devices you request.
 
@@ -2535,7 +2535,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You have just set up your AWS environment and have created six IAM user accounts for the DevOps team. What is the AWS recommendation when granting permissions to these IAM accounts?
 
 - [ ] Attach a separate IAM policy for each individual account.
-- [ ] Apply the Principle of Least Privilege.
+- [x] Apply the Principle of Least Privilege.
 - [ ] For security purposes, you should not grant any permission to the DevOps team.
 - [ ] Create six different IAM passwords.
 
@@ -2543,10 +2543,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following has the greatest impact on cost? (Choose TWO)
 
-- [ ] Compute charges.
+- [x] Compute charges.
 - [ ] The number of services used.
 - [ ] Data Transfer In charges.
-- [ ] Data Transfer Out charges.
+- [x] Data Transfer Out charges.
 - [ ] The number of IAM roles provisioned.
 
  
@@ -2556,7 +2556,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] A user who chooses to buy On-demand, Convertible, Partial upfront instances.
 - [ ] A user who chooses to buy Reserved, Convertible, All upfront instances.
 - [ ] A user who chooses to buy Reserved, Standard, No upfront instances.
-- [ ] A user who chooses to buy Reserved, Standard, All upfront instances.
+- [x] A user who chooses to buy Reserved, Standard, All upfront instances.
 
  
 
@@ -2565,7 +2565,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] The ability to bid to get the lowest possible prices.
 - [ ] The ability to register EC2 instances to get volume discounts on every hour the instances are running.
 - [ ] The ability to buy Dedicated Instances for up to 90% discount.
-- [ ] The ability to pay upfront to get lower hourly costs.
+- [x] The ability to pay upfront to get lower hourly costs.
 
  
 
@@ -2573,14 +2573,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It means that you save more when you consume more.
 - [ ] It means as more time passes using AWS, you pay more for its services.
-- [ ] It means that AWS will continuously lower costs as it grows.
+- [x] It means that AWS will continuously lower costs as it grows.
 - [ ] It means that you have the ability to pay as you go.
 
  
 
 ### A company experiences fluctuations in traffic patterns to their e-commerce website when running flash sales. What service can help the company dynamically match the required compute capacity to handle spikes in traffic during flash sales?
 
-- [ ] AWS Auto Scaling.
+- [x] AWS Auto Scaling.
 - [ ] Amazon Elastic Compute Cloud.
 - [ ] Amazon Elastic File System.
 - [ ] Amazon ElastiCache.
@@ -2590,7 +2590,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the below options is true of Amazon VPC?
 
 - [ ] Amazon VPC allows customers to control user interactions with all other AWS resources.
-- [ ] AWS Customers have complete control over their Amazon VPC virtual networking environment.
+- [x] AWS Customers have complete control over their Amazon VPC virtual networking environment.
 - [ ] AWS is responsible for all the management and configuration details of Amazon VPC.
 - [ ] Amazon VPC helps customers to review their AWS architecture and adopt best practices.
 
@@ -2601,23 +2601,23 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Cost Explorer.
 - [ ] AWS Pricing Calculator.
 - [ ] AWS Budgets.
-- [ ] AWS TCO Calculator.
+- [x] AWS TCO Calculator.
 
  
 
 ### Which of the following services provide real-time auditing for compliance and vulnerabilities? (Choose TWO)
 
-- [ ] AWS Config.
+- [x] AWS Config.
 - [ ] Amazon Redshift.
 - [ ] Amazon MQ.
-- [ ] AWS Trusted Advisor.
+- [x] AWS Trusted Advisor.
 - [ ] Amazon Cognito.
 
  
 
 ### Which of the following AWS services uses Puppet to automate how EC2 instances are configured?
 
-- [ ] AWS OpsWorks.
+- [x] AWS OpsWorks.
 - [ ] AWS CloudFormation.
 - [ ] AWS Quick Starts.
 - [ ] AWS CloudTrail.
@@ -2628,25 +2628,25 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Kinesis.
 - [ ] Amazon QuickSight.
-- [ ] AWS CodeDeploy.
+- [x] AWS CodeDeploy.
 - [ ] Amazon Athena.
 
  
 
 ### Select the services that are server-based: (Choose TWO)
 
-- [ ] Amazon RDS.
+- [x] Amazon RDS.
 - [ ] Amazon DynamoDB.
 - [ ] AWS Lambda.
 - [ ] AWS Fargate.
-- [ ] Amazon EMR.
+- [x] Amazon EMR.
 
  
 
 ### What best describes penetration testing?
 
 - [ ] Testing your application’s response time from different locations.
-- [ ] Testing your network to find security vulnerabilities that an attacker could exploit.
+- [x] Testing your network to find security vulnerabilities that an attacker could exploit.
 - [ ] Testing your instances to check for the unhealthy ones.
 - [ ] Testing your software for bugs and errors.
 
@@ -2656,8 +2656,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Enables you to backup extremely large amounts of data at very low costs.
 - [ ] Enables you to move Exabyte-scale data from on-premises datacenters into AWS.
-- [ ] Enables you to analyze and process extremely large amounts of data in a timely manner.
-- [ ] Enables you to easily run and scale Apache Spark, Hadoop,and other Big Data frameworks.
+- [x] Enables you to analyze and process extremely large amounts of data in a timely manner.
+- [x] Enables you to easily run and scale Apache Spark, Hadoop,and other Big Data frameworks.
 - [ ] Enables you to easily run and manage Docker containers.
 
  
@@ -2666,7 +2666,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] There is no chat feature in AWS support.
 - [ ] The chat feature is available for all plans for an additional fee, but you have to request it first.
-- [ ] At a minimum, upgrade to Business support plan.
+- [x] At a minimum, upgrade to Business support plan.
 - [ ] Upgrade from the Basic Support plan to Developer Support.
 
  
@@ -2676,7 +2676,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Fargate.
 - [ ] AWS Batch.
 - [ ] Amazon Personalize.
-- [ ] AWS Elastic Beanstalk.
+- [x] AWS Elastic Beanstalk.
 
  
 
@@ -2685,15 +2685,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] With AWS, you replace low upfront expenses with large variable payments.
 - [ ] With AWS, you replace low upfront expenses with large fixed payments.
 - [ ] With AWS, you replace large upfront expenses with low fixed payments.
-- [ ] With AWS, you replace large capital expenses with low variable payments.
+- [x] With AWS, you replace large capital expenses with low variable payments.
 
  
 
 ### For Amazon RDS databases, what does AWS perform on your behalf? (Choose TWO)
 
-- [ ] Database setup.
+- [x] Database setup.
 - [ ] Network traffic protection.
-- [ ] Management of the operating system.
+- [x] Management of the operating system.
 - [ ] Access management.
 - [ ] Management of firewall rules.
 
@@ -2701,7 +2701,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following strategies help analyze costs in AWS?
 
-- [ ] Using tags to group resources.
+- [x] Using tags to group resources.
 - [ ] Using AWS CloudFormation to automate the deployment of resources.
 - [ ] Deploying resources of the same type in different regions.
 - [ ] Configuring Amazon Inspector to automatically analyze costs and email reports.
@@ -2710,7 +2710,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A media company has an application that requires the transfer of large data sets to and from AWS every day. This data is business critical and should be transferred over a consistent connection. Which AWS service should the company use?
 
-- [ ] AWS Direct Connect.
+- [x] AWS Direct Connect.
 - [ ] Amazon Comprehend.
 - [ ] AWS Snowmobile.
 - [ ] AWS VPN.
@@ -2721,7 +2721,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It automates the process of building, maintaining, and running ETL jobs.
 - [ ] It provides physical devices to migrate data from on premises to AWS.
-- [ ] It allows integration of on-premises IT environments with Cloud Storage.
+- [x] It allows integration of on-premises IT environments with Cloud Storage.
 - [ ] It provides hardware-based key storage for regulatory compliance.
 
  
@@ -2729,7 +2729,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### To protect against data loss, you need to backup your database regularly. What is the most cost-effective storage option that provides immediate retrieval of your backups?
 
 - [ ] Amazon S3 Glacier Deep Archive.
-- [ ] Amazon S3 Standard-Infrequent Access.
+- [x] Amazon S3 Standard-Infrequent Access.
 - [ ] Amazon S3 Glacier.
 - [ ] Instance Store.
 
@@ -2737,7 +2737,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which service can you use to route traffic to the endpoint that provides the best application performance for your users worldwide?
 
-- [ ] AWS Global Accelerator.
+- [x] AWS Global Accelerator.
 - [ ] AWS Data Pipeline.
 - [ ] AWS DAX Accelerator.
 - [ ] AWS Transfer Acceleration.
@@ -2747,7 +2747,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Why are Serverless Architectures more economical than Server-based Architectures?
 
 - [ ] Serverless Architectures use new powerful computing devices.
-- [ ] With the Server-based Architectures, compute resources continue to run all the time but with serverless architecture, compute resources are only used when code is being executed.
+- [x] With the Server-based Architectures, compute resources continue to run all the time but with serverless architecture, compute resources are only used when code is being executed.
 - [ ] When you reserve serverless capacity, you will get large discounts compared to server reservation.
 - [ ] With Serverless Architectures you have the ability to scale automatically up or down as demand changes.
 
@@ -2757,8 +2757,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Point-to-point connectivity between an on-premises data center and AWS.
 - [ ] Detects configuration changes in the AWS environment.
-- [ ] DNS configuration and management.
-- [ ] Manages global application traffic through a variety of routing types.
+- [x] DNS configuration and management.
+- [x] Manages global application traffic through a variety of routing types.
 - [ ] Provides infrastructure security optimization recommendations.
 
  
@@ -2768,7 +2768,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Snowmobile.
 - [ ] AWS Import/Export.
 - [ ] AWS DMS.
-- [ ] AWS Snowball.
+- [x] AWS Snowball.
 
  
 
@@ -2777,7 +2777,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon Redshift.
 - [ ] Amazon Athena.
 - [ ] AWS Cloud9.
-- [ ] Amazon ElastiCache for Redis.
+- [x] Amazon ElastiCache for Redis.
 
  
 
@@ -2785,8 +2785,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Delete the encryption keys once your data is encrypted.
 - [ ] With AWS you do not need to worry about encryption.
-- [ ] Enable S3 Encryption.
-- [ ] Encrypt the data prior to uploading it.
+- [x] Enable S3 Encryption.
+- [x] Encrypt the data prior to uploading it.
 - [ ] Delete all IAM users that have access to S3.
 
  
@@ -2796,7 +2796,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS CodeDeploy.
 - [ ] AWS CodeCommit.
 - [ ] CloudEndure.
-- [ ] AWS CodeBuild.
+- [x] AWS CodeBuild.
 
  
 
@@ -2804,26 +2804,26 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Using default encryption for any number of S3 buckets.
 - [ ] The number of EBS volumes attached to your instances.
-- [ ] The storage class used for the objects stored.
+- [x] The storage class used for the objects stored.
 - [ ] Creating and deleting S3 buckets.
-- [ ] The total size in gigabytes of all objects stored.
+- [x] The total size in gigabytes of all objects stored.
 
  
 
 ### What does the Amazon CloudFront service provide? (Choose TWO)
 
 - [ ] Tracks user activity and APl usage.
-- [ ] Increases application availability by caching at the edge.
+- [x] Increases application availability by caching at the edge.
 - [ ] Enables faster disaster recovery.
 - [ ] Stores archived data at very low costs.
-- [ ] Delivers content to end users with low latency.
+- [x] Delivers content to end users with low latency.
 
  
 
 ### You are facing a lot of problems with your current contact center. Which service provides a cloud-based contact center that can deliver a better service for your customers?
 
 - [ ] Amazon Lightsail.
-- [ ] Amazon Connect.
+- [x] Amazon Connect.
 - [ ] AWS Direct Connect.
 - [ ] AWS Elastic Beanstalk.
 
@@ -2831,7 +2831,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### You have migrated your application to AWS recently. How can you view the AWS costs applied to your account?
 
-- [ ] Using the AWS Cost & Usage Report.
+- [x] Using the AWS Cost & Usage Report.
 - [ ] Using the AWS Total Cost of Ownership (TCO) dashboard.
 - [ ] Using the AWS CloudWatch logs dashboard.
 - [ ] Using the Amazon VPC dashboard.
@@ -2840,17 +2840,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following are valid Amazon EC2 Reserved Instance types? (Choose TWO)
 
-- [ ] Convertible.
+- [x] Convertible.
 - [ ] Expedited.
 - [ ] Bulk.
 - [ ] Spot.
-- [ ] Standard.
+- [x] Standard.
 
  
 
 ### Which of the following services gives you access to all AWS auditor-issued reports and certifications?
 
-- [ ] AWS Artifact.
+- [x] AWS Artifact.
 - [ ] AWS Config.
 - [ ] Amazon CloudWatch.
 - [ ] AWS CloudTrail.
@@ -2859,7 +2859,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### You manage a blog on AWS that has different environments: development, testing, and production. What can you use to create a custom console for each environment to view and manage your resources easily?
 
-- [ ] AWS Resource Groups.
+- [x] AWS Resource Groups.
 - [ ] AWS Placement Groups.
 - [ ] AWS Management Console.
 - [ ] AWS Tag Editor.
@@ -2869,7 +2869,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS service collects metrics from running EC2 instances?
 
 - [ ] Amazon Inspector.
-- [ ] Amazon CloudWatch.
+- [x] Amazon CloudWatch.
 - [ ] AWS CloudFormation.
 - [ ] AWS CloudTrail.
 
@@ -2878,7 +2878,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Your web application currently faces performance issues and suffers from long load times. Which of the following AWS services could help fix these issues and improve performance?
 
 - [ ] Amazon Detective.
-- [ ] AWS X-Ray.
+- [x] AWS X-Ray.
 - [ ] AWS Security Hub.
 - [ ] AWS Shield.
 
@@ -2887,8 +2887,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following compute resources are serverless? (Choose TWO)
 
 - [ ] Amazon EC2.
-- [ ] AWS Fargate.
-- [ ] AWS Lambda.
+- [x] AWS Fargate.
+- [x] AWS Lambda.
 - [ ] Amazon ECS.
 - [ ] Amazon EMR.
 
@@ -2896,7 +2896,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### For compliance and regulatory purposes, a government agency requires that their applications must run on hardware that is dedicated to them only. How can you meet this requirement?
 
-- [ ] Use EC2 Dedicated Hosts.
+- [x] Use EC2 Dedicated Hosts.
 - [ ] Use EC2 Reserved Instances.
 - [ ] Use EC2 Spot Instances.
 - [ ] Use EC2 On-demand Instances.
@@ -2906,7 +2906,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS Cost Governance best practice recommends refining workloads regularly to make the most of existing AWS resources and reduce costs?
 
 - [ ] Tagging Enforcement.
-- [ ] Architecture Optimization.
+- [x] Architecture Optimization.
 - [ ] Budgeting Processes.
 - [ ] Resource Controls.
 
@@ -2915,7 +2915,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### An organization needs to build a financial application that requires support for ACID transactions. Which AWS database service is most appropriate in this case?
 
 - [ ] RedShift.
-- [ ] RDS.
+- [x] RDS.
 - [ ] CloudHSM.
 - [ ] DMS.
 
@@ -2926,7 +2926,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] IAM Identity.
 - [ ] IAM Group.
 - [ ] IAM Role.
-- [ ] IAM Policy.
+- [x] IAM Policy.
 
  
 
@@ -2934,7 +2934,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS allows customers to launch powerful EC2 instances to handle spikes in load.
 - [ ] AWS allows customers to pay upfront to get bigger discounts.
-- [ ] AWS allows customers to launch and terminate EC2 instances based on demand.
+- [x] AWS allows customers to launch and terminate EC2 instances based on demand.
 - [ ] AWS allows customers to choose cheaper types of EC2 instances that best fit their needs.
 
  
@@ -2944,13 +2944,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] PostgreSQL.
 - [ ] Oracle.
 - [ ] Microsoft SQL Server.
-- [ ] Teradata.
+- [x] Teradata.
 
  
 
 ### Which of the following AWS services would help you migrate on-premise databases to AWS?
 
-- [ ] AWS DMS.
+- [x] AWS DMS.
 - [ ] Amazon S3 Transfer Acceleration.
 - [ ] AWS Directory Service.
 - [ ] AWS Transit Gateway.
@@ -2959,7 +2959,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### For new AWS customers, what is the EASIEST way to launch a simple WordPress website on AWS?
 
-- [ ] Run WordPress on an Amazon Lightsail instance.
+- [x] Run WordPress on an Amazon Lightsail instance.
 - [ ] Install WordPress on an Amazon EC2 instance.
 - [ ] Use the Amazon S3 Web hosting feature.
 - [ ] Host the website directly on AWS Cloud Development Kit (AWS CDK).
@@ -2968,17 +2968,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following would you use to manage your encryption keys in the AWS Cloud? (Choose TWO)
 
-- [ ] AWS KMS.
+- [x] AWS KMS.
 - [ ] AWS Certificate Manager.
 - [ ] AWS CodeDeploy.
 - [ ] AWS CodeCommit.
-- [ ] CloudHSM.
+- [x] CloudHSM.
 
  
 
 ### Which of the following services allows you to install and run custom relational database software?
 
-- [ ] Amazon EC2.
+- [x] Amazon EC2.
 - [ ] Amazon Cognito.
 - [ ] Amazon RDS.
 - [ ] Amazon Inspector.
@@ -2987,7 +2987,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Your application requirements for CPU and RAM are changing in an unpredictable way. Which service can be used to dynamically adjust these resources based on load?
 
-- [ ] Auto Scaling.
+- [x] Auto Scaling.
 - [ ] ELB.
 - [ ] Amazon Route53.
 - [ ] Amazon Elastic Container Service.
@@ -2996,7 +2996,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A company has infrastructure hosted in an on-premises data center. They currently have an operations team that takes care of identity management. If they decide to migrate to the AWS cloud, which of the following services would help them perform the same role in AWS?
 
-- [ ] AWS IAM.
+- [x] AWS IAM.
 - [ ] AWS Outposts.
 - [ ] AWS Federation.
 - [ ] Amazon Redshift.
@@ -3006,9 +3006,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What are some key design principles for designing public cloud systems? (Choose TWO)
 
 - [ ] Reserved capacity instead of on demand.
-- [ ] Loose coupling over tight coupling.
+- [x] Loose coupling over tight coupling.
 - [ ] Servers instead of managed services.
-- [ ] Disposable resources instead of fixed servers.
+- [x] Disposable resources instead of fixed servers.
 - [ ] Multi-AZ deployments instead of multi-region deployments.
 
  
@@ -3016,7 +3016,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Where can AWS account owners get a list of all users in their account, including the status of their AWS credentials?
 
 - [ ] AWS CloudTrail Trails.
-- [ ] IAM Credential Report.
+- [x] IAM Credential Report.
 - [ ] AWS Artifact reports.
 - [ ] AWS Cost and Usage Report.
 
@@ -3026,7 +3026,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Shield.
 - [ ] AWS Certificate Manager.
-- [ ] AWS CloudHSM.
+- [x] AWS CloudHSM.
 - [ ] AWS WAF.
 
  
@@ -3036,15 +3036,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] There is no need to architect for these capabilities in AWS, as AWS is redundant by default.
 - [ ] Deploy the application in a single Availability Zone.
 - [ ] Deploy the application in multiple Availability Zones in a single AWS region.
-- [ ] Deploy the application in muitiple Availability Zones in multiple AWS regions.
+- [x] Deploy the application in muitiple Availability Zones in multiple AWS regions.
 
  
 
 ### For some services, AWS automatically replicates data across multiple Availability Zones to provide fault tolerance in the event of a server failure or Availability Zone outage. Select TWO services that automatically replicate data across Availability Zones.
 
 - [ ] Instance Store.
-- [ ] S3.
-- [ ] DynamoDB.
+- [x] S3.
+- [x] DynamoDB.
 - [ ] Amazon Route 53.
 - [ ] AWS VPN.
 
@@ -3052,8 +3052,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following factors affect Amazon CloudFront cost? (Choose TWO)
 
-- [ ] Number of Requests.
-- [ ] Traffic Distribution.
+- [x] Number of Requests.
+- [x] Traffic Distribution.
 - [ ] Number of Volumes.
 - [ ] Instance type.
 - [ ] Storage Class.
@@ -3065,23 +3065,23 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Service Control Policies (SCPs).
 - [ ] AWS Artifact.
 - [ ] AWS Budgets.
-- [ ] AWS Acceptable Use Policy.
+- [x] AWS Acceptable Use Policy.
 
  
 
 ### Which of the following security resources are available to any user for free? (Choose TWO)
 
-- [ ] AWS Bulletins.
+- [x] AWS Bulletins.
 - [ ] AWS TAM.
 - [ ] AWS Support APl.
-- [ ] AWS Security Blog.
+- [x] AWS Security Blog.
 - [ ] AWS Classroom Training.
 
  
 
 ### How can you protect data stored on Amazon S3 from accidental deletion?
 
-- [ ] By enabling S3 Versioning.
+- [x] By enabling S3 Versioning.
 - [ ] By configuring S3 Bucket Policies.
 - [ ] By configuring S3 Lifecycle Policies.
 - [ ] By disabling S3 Cross-Region Replication (CRR).
@@ -3090,7 +3090,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following is the responsibility of AWS according to the AWS Shared Responsibility Model?
 
-- [ ] Securing regions and edge locations.
+- [x] Securing regions and edge locations.
 - [ ] Performing auditing tasks.
 - [ ] Monitoring AWS resources usage.
 - [ ] Securing access to AWS resources.
@@ -3100,7 +3100,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following AWS support plans provides access to only the seven core AWS Trusted Advisor checks?
 
 - [ ] Business & Enterprise Support.
-- [ ] Basic & Developer Support.
+- [x] Basic & Developer Support.
 - [ ] Developer & Enterprise Support.
 - [ ] Developer & Business Support.
 
@@ -3109,7 +3109,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is NOT a benefit of using AWS Lambda?
 
 - [ ] AWS Lambda runs code without provisioning or managing servers.
-- [ ] AWS Lambda provides resizable compute capacity in the cloud.
+- [x] AWS Lambda provides resizable compute capacity in the cloud.
 - [ ] There is no charge when your AWS Lambda code is not running.
 - [ ] AWS Lambda can be called directly from any mobile app.
 
@@ -3119,7 +3119,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It's not possible to meet regulatory compliance requirements in the Cloud.
 - [ ] AWS applies the most common Cloud security standards, and is responsible for complying with customers’ applicable laws and regulations.
-- [ ] AWS has many common assurance certifications such as ISO 9001 and HIPAA.
+- [x] AWS has many common assurance certifications such as ISO 9001 and HIPAA.
 - [ ] Many AWS services are assessed regularly to comply with local laws and regulations.
 
  
@@ -3128,14 +3128,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Your security team.
 - [ ] Your development team.
-- [ ] AWS.
+- [x] AWS.
 - [ ] Your internal DevOps team.
 
  
 
 ### You are working as a web app developer. You are currently facing issues in media playback for mobile devices because your media format is not supported. Which of the following AWS services can help you convert your media into another format?
 
-- [ ] Amazon Elastic Transcoder.
+- [x] Amazon Elastic Transcoder.
 - [ ] Amazon Pinpoint.
 - [ ] AmazonS3.
 - [ ] Amazon Rekognition.
@@ -3144,18 +3144,18 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What are the benefits of the AWS Organizations service? (Choose TWO)
 
-- [ ] Control access to AWS services.
+- [x] Control access to AWS services.
 - [ ] Help organizations design and maintain an accelerated path to successful cloud adoption.
 - [ ] Manage your organization’s payment methods.
 - [ ] Help organization achieve their desired business outcomes with AWS.
-- [ ] Consolidate billing across multiple AWS accounts.
+- [x] Consolidate billing across multiple AWS accounts.
 
  
 
 ### Which AWS service allows you to build a data warehouse in the cloud?
 
 - [ ] AWS Shield.
-- [ ] Amazon Redshift.
+- [x] Amazon Redshift.
 - [ ] Amazon RDS.
 - [ ] Amazon Comprehend.
 
@@ -3165,7 +3165,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Application Discovery service.
 - [ ] Amazon DevPay.
-- [ ] AWS Marketplace.
+- [x] AWS Marketplace.
 - [ ] Resource Groups.
 
  
@@ -3173,7 +3173,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following services is an AWS repository management system that allows for storing, versioning, and managing your application code?
 
 - [ ] AWS CodePipeline.
-- [ ] AWS CodeCommit.
+- [x] AWS CodeCommit.
 - [ ] AWS X-Ray.
 - [ ] Amazon Inspector.
 
@@ -3184,13 +3184,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon Cognito.
 - [ ] AWS Systems Manager.
 - [ ] AWS Cloud9.
-- [ ] Amazon Route 53.
+- [x] Amazon Route 53.
 
  
 
 ### Which feature enables users to sign into their AWS accounts with their existing corporate credentials?
 
-- [ ] Federation.
+- [x] Federation.
 - [ ] Access keys.
 - [ ] IAM Permissions.
 - [ ] WAF rules.
@@ -3201,8 +3201,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Awareness and Training.
 - [ ] Communications controls.
-- [ ] Data center security controls.
-- [ ] Environmental controls.
+- [x] Data center security controls.
+- [x] Environmental controls.
 - [ ] Resource Configuration Management.
 
  
@@ -3211,27 +3211,27 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Billing Dashboard.
 - [ ] AWS Cost Dashboard.
-- [ ] AWS Service Health Dashboard.
+- [x] AWS Service Health Dashboard.
 - [ ] AWS Security Dashboard.
 
  
 
 ### Which of the following procedures can reduce latency when your end users are retrieving data? (Choose TWO)
 
-- [ ] Store media assets in the region closest to your end users.
+- [x] Store media assets in the region closest to your end users.
 - [ ] Store media assets on an additional EBS volume and increase the capacity of your server.
 - [ ] Replicate media assets to at least two availability zones.
 - [ ] Reduce the size of media assets using the Amazon Elastic Transcoder.
-- [ ] Store media assets in $3 and use CloudFront to distribute these assets.
+- [x] Store media assets in $3 and use CloudFront to distribute these assets.
 
  
 
 ### Which of the following are part of the seven design principles for security in the cloud? (Choose TWO)
 
 - [ ] Use manual monitoring techniques to protect your AWS resources.
-- [ ] Use IAM roles to grant temporary access instead of long-term credentials.
+- [x] Use IAM roles to grant temporary access instead of long-term credentials.
 - [ ] Scale horizontally to protect from failures.
-- [ ] Enable real-time traceability.
+- [x] Enable real-time traceability.
 - [ ] Never store sensitive data in the cloud.
 
  
@@ -3240,7 +3240,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Use the AWS Pricing Calculator service to monitor the costs incurred by each department.
 - [ ] Use Amazon Aurora to forecast AWS spending based on usage.
-- [ ] Apply cost allocation tags to segment AWS costs by different e projects and departments.
+- [x] Apply cost allocation tags to segment AWS costs by different e projects and departments.
 - [ ] Configure AWS Price List API to receive billing updates for each department automatically.
 
  
@@ -3248,7 +3248,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is the main benefit of attaching security groups to an Amazon RDS instance?
 
 - [ ] Manages user access and encryption keys.
-- [ ] Controls what IP address ranges can connect to your database instance.
+- [x] Controls what IP address ranges can connect to your database instance.
 - [ ] Deploys SSL/TLS certificates for use with your database instance.
 - [ ] Distributes incoming traffic across multiple targets.
 
@@ -3256,7 +3256,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A company wants to use Amazon Elastic Container Service (Amazon ECS) to run its containerized applications. For compliance reasons, the company wants to retain complete visibility and control over the underlying server cluster. Which Amazon ECS launch type will satisfy these requirements?
 
-- [ ] EC2 launch type.
+- [x] EC2 launch type.
 - [ ] Fargate launch type.
 - [ ] Lightsail launch type.
 - [ ] Lambda launch type.
@@ -3266,7 +3266,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You have multiple standalone AWS accounts and you want to decrease your AWS monthly charges. What should you do?
 
 - [ ] Try to remove unnecessary AWS accounts.
-- [ ] Add the accounts to an AWS Organization and use Consolidated Billing.
+- [x] Add the accounts to an AWS Organization and use Consolidated Billing.
 - [ ] Track the AWS charges that are incurred by the member accounts.
 - [ ] Enable AWS tiered-pricing before provisioning resources.
 
@@ -3277,16 +3277,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Network ACLs and Traffic Manager.
 - [ ] Network ACLs and Subnets.
 - [ ] Security Groups and Internet Gateways.
-- [ ] Security Groups and Network ACLs.
+- [x] Security Groups and Network ACLs.
 
  
 
 ### What does the AWS "Business" support plan provide? (Choose TWO)
 
-- [ ] Access to the full set of Trusted Advisor checks.
+- [x] Access to the full set of Trusted Advisor checks.
 - [ ] Support Concierge Service.
 - [ ] Less than 15 minutes response-time support if your business critical system goes down.
-- [ ] AWS Support API.
+- [x] AWS Support API.
 - [ ] Proactive Technical Account Management.
 
  
@@ -3294,7 +3294,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### You have just finished writing your application code. Which service can be used to automate the deployment and scaling of your application?
 
 - [ ] Amazon Simple Storage Service.
-- [ ] AWS Elastic Beanstalk.
+- [x] AWS Elastic Beanstalk.
 - [ ] AWS CodeCommit.
 - [ ] Amazon Elastic File System.
 
@@ -3303,7 +3303,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which statement is true in relation to security in AWS?
 
 - [ ] AWS manages everything related to EC2 operating systems.
-- [ ] AWS customers are responsible for patching any database software running on Amazon EC2.
+- [x] AWS customers are responsible for patching any database software running on Amazon EC2.
 - [ ] Server side encryption is the responsibility of AWS.
 - [ ] AWS is responsible for the security of your application.
 
@@ -3311,19 +3311,19 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Amazon EC2 instances are conceptually very similar to traditional servers. However, using Amazon EC2 server instances in the same manner as traditional hardware server instances is only a starting point. What are the main benefits of using the AWS EC2 instances instead of traditional servers? (Choose TWO)
 
-- [ ] Improves Fault-Tolerance.
+- [x] Improves Fault-Tolerance.
 - [ ] Provides your business with a seamless remote accessibility.
 - [ ] Prevents unauthorized users from getting into your network.
 - [ ] Provides automatic data backups.
-- [ ] Can be scaled manually in a shorter period of time.
+- [x] Can be scaled manually in a shorter period of time.
 
  
 
 ### Which statement is true regarding AWS pricing? (Choose TWO)
 
-- [ ] With the AWS pay-as-you-go pricing model, you don't have to pay any upfront fee.
+- [x] With the AWS pay-as-you-go pricing model, you don't have to pay any upfront fee.
 - [ ] You have no responsibility for third-party software license costs.
-- [ ] You only pay for the individual services that you need with no long-term contracts.
+- [x] You only pay for the individual services that you need with no long-term contracts.
 - [ ] For some services, you have to pay a startup fee in order to get the service running.
 - [ ] There are no reservations on AWS, you only pay for what you use.
 
@@ -3331,7 +3331,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS service provides the EASIEST way to set up and manage a secure, well-architected, multi-account AWS environment?
 
-- [ ] AWS Control Tower.
+- [x] AWS Control Tower.
 - [ ] Amazon Macie.
 - [ ] AWS Systems Manager Patch Manager.
 - [ ] AWS Systems Manager Patch Manager AWS Security Hub.
@@ -3342,14 +3342,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Use CloudFront to monitor the CPU usage.
 - [ ] Set the AWS Config CPU threshold to 60% to receive a notification when EC2 usage exceeds that value.
-- [ ] Use CloudWatch Alarms to monitor the CPUand alert when the CPU usage is >= 60%.
+- [x] Use CloudWatch Alarms to monitor the CPUand alert when the CPU usage is >= 60%.
 - [ ] Use SNS to menitor the utilization of the server.
 
  
 
 ### What is the recommended storage option when hosting an often-changing database on an Amazon EC2 instance?
 
-- [ ] Amazon EBS.
+- [x] Amazon EBS.
 - [ ] Amazon RDS.
 - [ ] You can't run a database inside an Amazon EC2 instance.
 - [ ] Amazon DynamoDB.
@@ -3358,7 +3358,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### You are working as a site reliability engineer (SRE) in an AWS environment, which of the following services helps monitor your applications?
 
-- [ ] Amazon CloudWatch.
+- [x] Amazon CloudWatch.
 - [ ] Amazon CloudSearch.
 - [ ] Amazon Elastic MapReduce.
 - [ ] Amazon CloudHSM.
@@ -3368,17 +3368,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What factors determine how you are charged when using AWS Lambda? (Choose TWO)
 
 - [ ] Storage consumed.
-- [ ] Number of requests to your functions.
+- [x] Number of requests to your functions.
 - [ ] Number of volumes.
 - [ ] Placement groups.
-- [ ] Compute time consumed.
+- [x] Compute time consumed.
 
  
 
 ### What are the main differences between an IAM user and an IAM role in AWS? (Choose TWO)
 
-- [ ] An IAM user is uniquely associated with only one person, however a role is intended to be assumable by anyone who needs it.
-- [ ] An IAM user has permanent credentials associated with it, however a role has temporary credentials associated with it.
+- [x] An IAM user is uniquely associated with only one person, however a role is intended to be assumable by anyone who needs it.
+- [x] An IAM user has permanent credentials associated with it, however a role has temporary credentials associated with it.
 - [ ] IAM users are more cost effective than IAM roles.
 - [ ] Arole is uniquely associated with only one person, however an IAM user is intended to be assumable by anyone who needs it.
 - [ ] An IAM user has temporary credentials associated withit, however a role has permanent credentials associated with it.
@@ -3389,8 +3389,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Deleting unused buckets.
 - [ ] Using reservations.
-- [ ] Deleting unnecessary snapshots.
-- [ ] Changing the type of the volume.
+- [x] Deleting unnecessary snapshots.
+- [x] Changing the type of the volume.
 - [ ] Distributing requests to multiple volumes.
 
  
@@ -3398,7 +3398,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What does Amazon GuardDuty do to protect AWS accounts and workloads?
 
 - [ ] Notifies AWS customers about abuse events once they are reported.
-- [ ] Continuously monitors AWS infrastructure and helps detect threats such as attacker reconnaissance or account compromise.
+- [x] Continuously monitors AWS infrastructure and helps detect threats such as attacker reconnaissance or account compromise.
 - [ ] Helps AWS customers identify the root cause of potential security issues.
 - [ ] Checks security groups for rules that allow unrestricted access to AWS. resources.
 
@@ -3406,7 +3406,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which database service should you use if your application and data schema require "joins" or complex transactions?
 
-- [ ] Amazon RDS.
+- [x] Amazon RDS.
 - [ ] AWS Outposts.
 - [ ] Amazon DocumentDB.
 - [ ] Amazon DynameDB.
@@ -3418,7 +3418,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon CloudWatch.
 - [ ] AWS Service Catalog.
 - [ ] AWS Directory Service.
-- [ ] AWS Tagging.
+- [x] AWS Tagging.
 
  
 
@@ -3426,7 +3426,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Glacier only accepts data in a compressed format.
 - [ ] Glacier can only be used to store frequently accessed data and data archives.
-- [ ] Amazon Glacier does not provide immediate retrieval of data.
+- [x] Amazon Glacier does not provide immediate retrieval of data.
 - [ ] Attach Glacier to an EC2 Instance to be able to store data.
 
  
@@ -3434,7 +3434,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Engineers are wasting a lot of time and effort managing batch computing software in traditional data centers. Which of the following AWS services allows them to easily run thousands of batch computing jobs?
 
 - [ ] Amazon EC2.
-- [ ] AWS Batch.
+- [x] AWS Batch.
 - [ ] Lambda@Edge.
 - [ ] AWS Fargate.
 
@@ -3443,7 +3443,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### How can you increase your application’s fault-tolerance while it is being hosted in AWS?
 
 - [ ] Deploy your application across multiple EC2 instances.
-- [ ] Deploy your application across multiple Availability Zones.
+- [x] Deploy your application across multiple Availability Zones.
 - [ ] Host your application on one powerful EC2 instance type instead of multiple smaller instances.
 - [ ] Deploy the underlying application resources across multiple subnets.
 
@@ -3453,18 +3453,18 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Developer.
 - [ ] Premium.
-- [ ] Enterprise.
+- [x] Enterprise.
 - [ ] Standard.
-- [ ] Business.
+- [x] Business.
 
  
 
 ### Which of the following requires an access key ID and a secret access key to get long-lived programmatic access to AWS resources? (Choose TWO)
 
 - [ ] IAM group.
-- [ ] IAM user.
+- [x] IAM user.
 - [ ] IAM role.
-- [ ] AWS account root user.
+- [x] AWS account root user.
 - [ ] TAM.
 
  
@@ -3474,7 +3474,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] It eliminates the need for change management.
 - [ ] It allows for Cross-Region Replication.
 - [ ] It helps AWS customers reduce Privileged Access to AWS resources.
-- [ ] It allows individual application compenents or services to be modified without affecting other components.
+- [x] It allows individual application compenents or services to be modified without affecting other components.
 
  
 
@@ -3482,7 +3482,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Elastic Block Store.
 - [ ] AWS Storage Gateway.
-- [ ] Amazon Elastic File System.
+- [x] Amazon Elastic File System.
 - [ ] S3.
 
  
@@ -3492,16 +3492,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] On-premises.
 - [ ] IaaS.
 - [ ] PaaS.
-- [ ] Cloud.
+- [x] Cloud.
 
  
 
 ### What are the benefits of the AWS Marketplace service? (Choose TWO)
 
-- [ ] Protects customers by performing periodic security checks on listed products.
+- [x] Protects customers by performing periodic security checks on listed products.
 - [ ] Per-second billing.
 - [ ] Provides cheaper options for purchasing Amazon EC2 on-demand instances.
-- [ ] Provides flexible pricing options that suit most customer needs.
+- [x] Provides flexible pricing options that suit most customer needs.
 - [ ] Provides software solutions that run on AWS or any other Cloud vendor.
 
  
@@ -3509,7 +3509,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is the benefit of Amazon EBS volumes being automatically replicated within the same availability zone?
 
 - [ ] Elasticity.
-- [ ] Durability.
+- [x] Durability.
 - [ ] Traceability.
 - [ ] Accessibility.
 
@@ -3520,7 +3520,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Savings Plans.
 - [ ] Spot Instances.
 - [ ] Reserved Instances.
-- [ ] On-Demand Instances.
+- [x] On-Demand Instances.
 
  
 
@@ -3529,14 +3529,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon EFS.
 - [ ] AWS Secrets Manager.
 - [ ] AWS Systems Manager.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 
  
 
 ### Which of the following services is used when encrypting EBS volumes?
 
 - [ ] AWS WAF.
-- [ ] AWS KMS.
+- [x] AWS KMS.
 - [ ] Amazon Macie.
 - [ ] Amazon GuardDuty.
 
@@ -3547,16 +3547,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Download all the attached policies in a safe place.
 - [ ] Delete all IAM accounts and recreate them.
 - [ ] Use the CloudWatch service to check all API calls that have been made in your account since the administrator was fired.
-- [ ] Rotate all access keys.
-- [ ] Change the email address and password of the root user account and enable MFA.
+- [x] Rotate all access keys.
+- [x] Change the email address and password of the root user account and enable MFA.
 
  
 
 ### What is the Amazon ElastiCache service used for? (Choose TWO)
 
-- [ ] Provide an in-memory data storage service.
+- [x] Provide an in-memory data storage service.
 - [ ] Reduce delivery costs using Edge Locations.
-- [ ] Improve web application performance.
+- [x] Improve web application performance.
 - [ ] Provide a Chef-compatible cache to speed up application response.
 - [ ] Distribute requests to multiple instances.
 
@@ -3565,10 +3565,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### The elasticity of the AWS Cloud enables customers to save costs when compared to traditional hosting providers. What can AWS customers do to benefit from the elasticity of the AWS Cloud? (Choose TWO)
 
 - [ ] Deploy your resources across multiple Availability Zones.
-- [ ] Use Amazon EC2 Auto Scaling.
+- [x] Use Amazon EC2 Auto Scaling.
 - [ ] Deploy your resources in another region.
 - [ ] Use Elastic Load Balancing.
-- [ ] Use Serverless Computing whenever possible.
+- [x] Use Serverless Computing whenever possible.
 
  
 
@@ -3576,9 +3576,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] They provide free capacity when testing your new applications.
 - [ ] They are cheaper than all other EC2 options.
-- [ ] They remove the need to buy “safety net” capacity to handle periodic traffic spikes.
+- [x] They remove the need to buy “safety net” capacity to handle periodic traffic spikes.
 - [ ] They only require 1-2 days for setup and configuration.
-- [ ] You can increase or decrease your compute capacity depending on the demands of your application.
+- [x] You can increase or decrease your compute capacity depending on the demands of your application.
 
  
 
@@ -3587,13 +3587,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] It is a data center designed to be completely isolated from other data centers in the same region.
 - [ ] It is a collection of data centers distributed in multiple countries.
 - [ ] It is a logically isolated network of the AWS Cloud.
-- [ ] It is a distinct location within a region that is insulated from « failures in other Availability Zones.
+- [x] It is a distinct location within a region that is insulated from « failures in other Availability Zones.
 
  
 
 ### AWS provides disaster recovery capability by allowing customers to deploy infrastructure into multiple [...].
 
-- [ ] Regions.
+- [x] Regions.
 - [ ] Transportation devices.
 - [ ] Support plans.
 - [ ] Edge locations.
@@ -3603,8 +3603,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company’s responsibility when building a PCI-compliant environment in AWS? (Choose TWO)
 
 - [ ] Start the migration process immediately as all AWS services are PCI compliant.
-- [ ] Ensure that AWS services are configured properly to meetall PCI DSS standards.
-- [ ] Restrict any access to cardholder data and create a policy that addresses information security for all personnel.
+- [x] Ensure that AWS services are configured properly to meetall PCI DSS standards.
+- [x] Restrict any access to cardholder data and create a policy that addresses information security for all personnel.
 - [ ] Configure the underlying infrastructure of AWS services to meet all PCI DSS requirements.
 - [ ] Ensure that all PCI DSS physical security requirements are met.
 
@@ -3613,7 +3613,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is the maximum amount of data that can be stored in S3 in a single AWS account?
 
 - [ ] 100 PetaBytes.
-- [ ] Virtually unlimited storage.
+- [x] Virtually unlimited storage.
 - [ ] 5TeraBytes.
 - [ ] 10 Exabytes.
 
@@ -3623,7 +3623,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Operational Excellence.
 - [ ] Security.
-- [ ] Performance Efficiency.
+- [x] Performance Efficiency.
 - [ ] Reliability.
 
  
@@ -3631,7 +3631,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS service delivers data, videos, applications, and APIs to users globally with low latency and high transfer speeds?
 
 - [ ] Amazon Route 53.
-- [ ] Amazon Connect.
+- [x] Amazon Connect.
 - [ ] Amazon CloudFront.
 - [ ] Amazon EC2.
 
@@ -3640,7 +3640,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following steps should be taken by a customer when conducting penetration testing on AWS?
 
 - [ ] Conduct penetration testing using Amazon Inspector, and then notify AWS support.
-- [ ] Request and wait for approval from the customer’s internal security team, and then conduct testing.
+- [x] Request and wait for approval from the customer’s internal security team, and then conduct testing.
 - [ ] Notify AWS support, and then conduct testing immediately.
 - [ ] Request and wait for approval from AWS support, and then conduct testing.
 
@@ -3650,7 +3650,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Cost Explorer.
 - [ ] AWS Budgets.
-- [ ] AWS Cost and Usage report.
+- [x] AWS Cost and Usage report.
 - [ ] AWS Billing dashboard.
 
  
@@ -3658,7 +3658,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which element of the AWS global infrastructure consists of one or more discrete data centers each with redundant power networking and connectivity which are housed in separate facilities?
 
 - [ ] AWS Regions.
-- [ ] Availability Zones.
+- [x] Availability Zones.
 - [ ] Edge locations.
 - [ ] Amazon CloudFront.
 
@@ -3667,7 +3667,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### How many Availability Zones should compute resources be provisioned across to achieve high availability?
 
 - [ ] A minimum of one.
-- [ ] A minimum of two.
+- [x] A minimum of two.
 - [ ] A minimum of three.
 - [ ] A minimum of four or more.
 
@@ -3676,7 +3676,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### The AWS Cloud’s multiple Regions are an example of:
 
 - [ ] Agility.
-- [ ] Global infrastructure.
+- [x] Global infrastructure.
 - [ ] Elasticity.
 - [ ] Pay-as-you-go pricing.
 
@@ -3686,7 +3686,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon EBS.
 - [ ] Amazon S3.
-- [ ] Amazon EC2.
+- [x] Amazon EC2.
 - [ ] Amazon ECS.
 
  
@@ -3695,7 +3695,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Ensure that components have low-latency network connectivity.
 - [ ] Run enough Amazon EC2 instances to operate at peak load.
-- [ ] Ensure that the application is designed to accommodate failure of any single component.
+- [x] Ensure that the application is designed to accommodate failure of any single component.
 - [ ] Use a monolithic application that handles all operations.
 
  
@@ -3704,8 +3704,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] High availability.
 - [ ] Shared security model.
-- [ ] Elasticity.
-- [ ] Pay-as-you-go pricing.
+- [x] Elasticity.
+- [x] Pay-as-you-go pricing.
 - [ ] Reliability.
 
  
@@ -3715,13 +3715,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Well-Architected Framework documentation.
 - [ ] Amazon CloudFront.
 - [ ] AWS CodeCommit.
-- [ ] AWS Quick Start reference deployments.
+- [x] AWS Quick Start reference deployments.
 
  
 
 ### What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?
 
-- [ ] It simplifies relational database administration tasks.
+- [x] It simplifies relational database administration tasks.
 - [ ] It provides 99.99999999999% reliability and durability.
 - [ ] It automatically scales databases for loads.
 - [ ] It enabled users to dynamically adjust CPU and RAM resources.
@@ -3730,7 +3730,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following AWS Cloud services can be used to run a customer-managed relational database?
 
-- [ ] Amazon EC2.
+- [x] Amazon EC2.
 - [ ] Amazon Route 53.
 - [ ] Amazon ElastiCache.
 - [ ] Amazon DynamoDB.
@@ -3739,7 +3739,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A user is planning to launch two additional Amazon EC2 instances to increase availability. Which action should the user take?
 
-- [ ] Launch the instances across multiple Availability Zones in a single AWS Region.
+- [x] Launch the instances across multiple Availability Zones in a single AWS Region.
 - [ ] Launch the instances as EC2 Reserved Instances in the same AWS Region and the same Availability Zone.
 - [ ] Launch the instances in multiple AWS Regions but in the same Availability Zone.
 - [ ] Launch the instances as EC2 Spot Instances in the same AWS Region but in different Availability Zones.
@@ -3750,14 +3750,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] A public and private key-pair.
 - [ ] Amazon Inspector.
-- [ ] AWS Identity and Access Management (IAM) policies.
+- [x] AWS Identity and Access Management (IAM) policies.
 - [ ] Security Groups.
 
  
 
 ### Which AWS service allows companies to connect an Amazon VPC to an on-premises data center?
 
-- [ ] AWS VPN.
+- [x] AWS VPN.
 - [ ] Amazon Redshift.
 - [ ] API Gateway.
 - [ ] Amazon Direct Connect.
@@ -3768,7 +3768,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS CloudTrail.
 - [ ] VPC Flow Logs.
-- [ ] Amazon CloudWatch.
+- [x] Amazon CloudWatch.
 - [ ] AWSConfig.
 
  
@@ -3777,7 +3777,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Granting access to individuals and services.
 - [ ] Encrypting data in transit.
-- [ ] Updating Amazon EC2 host firmware.
+- [x] Updating Amazon EC2 host firmware.
 - [ ] Updating operating systems.
 
  
@@ -3786,7 +3786,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Calling AWS Support.
 - [ ] Contacting AWS Professional Services to request a workshop.
-- [ ] Accessing forums, blogs, and whitepapers.
+- [x] Accessing forums, blogs, and whitepapers.
 - [ ] Attending AWS classes at a local university.
 
  
@@ -3796,14 +3796,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon Glacier.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon Elastic File System (Amazon EFS).
-- [ ] Amazon Simple Storage Service (Amazon S3).
+- [x] Amazon Simple Storage Service (Amazon S3).
 
  
 
 ### According to the AWS shared responsibility model what is the sole responsibility of AWS?
 
 - [ ] Application security.
-- [ ] Edge location management.
+- [x] Edge location management.
 - [ ] Patch management.
 - [ ] Client-side data.
 
@@ -3813,15 +3813,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Multiple Availability Zones.
 - [ ] Performance efficiency.
-- [ ] Security.
-- [ ] Encryption usage.
+- [x] Security.
+- [x] Encryption usage.
 - [ ] High availability.
 
  
 
 ### Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?
 
-- [ ] AWS Trusted Advisor.
+- [x] AWS Trusted Advisor.
 - [ ] Amazon Inspector.
 - [ ] Amazon CloudWatch.
 - [ ] AWS CloudTrail.
@@ -3832,9 +3832,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Use manual monitoring.
 - [ ] Use fixed servers.
-- [ ] Implement loose coupling.
+- [x] Implement loose coupling.
 - [ ] Rely on individual components.
-- [ ] Design for scalability.
+- [x] Design for scalability.
 
  
 
@@ -3843,7 +3843,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Use the largest instance possible.
 - [ ] Provision capacity for peak load.
 - [ ] Use the Scrum development process.
-- [ ] Implement elasticity.
+- [x] Implement elasticity.
 
  
 
@@ -3852,13 +3852,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
 - [ ] Enable automate patching for the instances using the Amazon RDS console.
 - [ ] In AWS Config. configure a rule for the instances and the required patch level.
-- [ ] Use AWS Systems Manager to automate database patching according to a schedule.
+- [x] Use AWS Systems Manager to automate database patching according to a schedule.
 
  
 
 ### Which mechanism allows developers lo access AWS sendees from application code?
 
-- [ ] AWS Software Development Kit.
+- [x] AWS Software Development Kit.
 - [ ] AWS Management Console.
 - [ ] AWS CodePipeline.
 - [ ] AWS Config.
@@ -3867,7 +3867,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS feature will reduce the customer’s total cost of ownership (TCO)?
 
-- [ ] Shared responsibility security model.
+- [x] Shared responsibility security model.
 - [ ] Single tenancy.
 - [ ] Elastic computing.
 - [ ] Encryption.
@@ -3877,7 +3877,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is a benefit of using the AWS Cloud?
 
 - [ ] Permissive security removes the administrative burden.
-- [ ] Ability to focus on revenue-generating activities.
+- [x] Ability to focus on revenue-generating activities.
 - [ ] Control over cloud network hardware.
 - [ ] Choice of specific cloud hardware vendors.
 
@@ -3885,10 +3885,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following are categories of AWS Trusted Advisor? (Select TWO)
 
-- [ ] Fault Tolerance.
+- [x] Fault Tolerance.
 - [ ] Instance Usage.
 - [ ] Infrastructure.
-- [ ] Performance.
+- [x] Performance.
 - [ ] Storage Capacity.
 
  
@@ -3896,7 +3896,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What is Amazon CloudWatch?
 
 - [ ] A code repository with customizable build and team commit features.
-- [ ] A metrics repository with customizable notification thresholds and channels.
+- [x] A metrics repository with customizable notification thresholds and channels.
 - [ ] A security configuration repository with threat analytics.
 - [ ] A rule repository of a web application firewall with automated vulnerability prevention features.
 
@@ -3905,9 +3905,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Under the AWS shared responsibility model, which of the following activities are the customer’s responsibility? (Select TWO)
 
 - [ ] Patching operating system components for Amazon Relational Database Server (Amazon RDS).
-- [ ] Encrypting data on the client-side.
+- [x] Encrypting data on the client-side.
 - [ ] Training the data center staff.
-- [ ] Configuring Network Access Control Lists (ACL).
+- [x] Configuring Network Access Control Lists (ACL).
 - [ ] Maintaining environmental controls within a data center.
 
  
@@ -3915,7 +3915,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Under the shared responsibility model, which of the following is a shared control between a customer and AWS?
 
 - [ ] Physical controls.
-- [ ] Patch management.
+- [x] Patch management.
 - [ ] Zone security.
 - [ ] Data center auditing.
 
@@ -3924,7 +3924,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS service is used to pay AWS bills, and monitor usage and budget costs?
 
 - [ ] AWS Billing and Cost Management.
-- [ ] Consolidated billing.
+- [x] Consolidated billing.
 - [ ] Amazon CloudWatch.
 - [ ] Amazon GuickStght.
 
@@ -3934,7 +3934,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Periodic price reductions as the result of Amazon’s operational efficiencies.
 - [ ] New Amazon EC2 instance types providing the latest hardware.
-- [ ] The ability to scale up and down when needed.
+- [x] The ability to scale up and down when needed.
 - [ ] Increased reliability in the underlying hardware of Amazon EC2 instances.
 
  
@@ -3942,7 +3942,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?
 
 - [ ] Service control policies (SCPs).
-- [ ] Consolidated billing.
+- [x] Consolidated billing.
 - [ ] All Upfront Reserved Instances.
 - [ ] AWS Cost Explorer.
 
@@ -3951,9 +3951,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
 
 - [ ] Amazon EBS.
-- [ ] Amazon Connect.
+- [x] Amazon Connect.
 - [ ] AWS Storage Gateway AWS CLOUD PRACTITIONER DUMPS.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 - [ ] AWS Direct Connect.
 
  
@@ -3961,7 +3961,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following services will automatically scale with an expected increase in web traffic?
 
 - [ ] AWS CodePipeline.
-- [ ] Elastic Load Balancing.
+- [x] Elastic Load Balancing.
 - [ ] Amazon EBS.
 - [ ] AWS Direct Connect.
 
@@ -3972,14 +3972,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon Redshift.
 - [ ] Amazon Elastic File System (Amazon EFS).
 - [ ] Amazon Elastic Container Service (Amazon ECS).
-- [ ] Amazon S3.
+- [x] Amazon S3.
 
  
 
 ### Which AWS feature should a customer leverage to achieve high availability of an application?
 
 - [ ] AWS Direct Connect.
-- [ ] Availability Zones.
+- [x] Availability Zones.
 - [ ] Data centers.
 - [ ] Amazon Virtual Private Cloud (Amazon VPC).
 
@@ -3987,9 +3987,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS service or feature can enhance network security by blocking requests from a particular network for a web application on AWS? (Select TWO)
 
-- [ ] AWS WAF.
+- [x] AWS WAF.
 - [ ] AWS Trusted Advisor.
-- [ ] AWS Direct Connect.
+- [x] AWS Direct Connect.
 - [ ] AWS Organizations.
 - [ ] Network ACLs.
 
@@ -3998,7 +3998,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is a cloud architectural design principle?
 
 - [ ] Scale up not out.
-- [ ] Loosely couple components.
+- [x] Loosely couple components.
 - [ ] Build monolithic systems.
 - [ ] Use commercial database software.
 
@@ -4007,7 +4007,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which service enables risk auditing by continuously monitoring and logging account activity, including user actions in the AWS Management Console and AWS SDKs?
 
 - [ ] Amazon CloudWatch.
-- [ ] AWS CloudTrail.
+- [x] AWS CloudTrail.
 - [ ] AWS Config.
 - [ ] AWS Health.
 
@@ -4015,7 +4015,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Where can AWS compliance and certification reports be downloaded?
 
-- [ ] AWS Artifact.
+- [x] AWS Artifact.
 - [ ] AWS Concierge.
 - [ ] AWS Certificate Manager.
 - [ ] AWS Trusted Advisor.
@@ -4024,17 +4024,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### The financial benefits of using AWS are: (Select TWO)
 
-- [ ] Reduced Total Cost of Ownership (TCO).
+- [x] Reduced Total Cost of Ownership (TCO).
 - [ ] Increased capital expenditure (capex).
 - [ ] Reduced operational expenditure ( opex ).
-- [ ] Deferred payment plans for startups.
+- [x] Deferred payment plans for startups.
 - [ ] Business credit lines for stratups.
 
  
 
 ### Which AWS service can serve a static website?
 
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon Route 53.
 - [ ] Amazon QuickSight.
 - [ ] AWS X-Ray.
@@ -4043,9 +4043,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What are the benefits of using the AWS Cloud for companies with customers in many countries around the world (Select TWO)
 
-- [ ] Companies can deploy applications in multiple AWS Regions to reduce latency.
+- [x] Companies can deploy applications in multiple AWS Regions to reduce latency.
 - [ ] Amazon Translate automatically translates third-party website interfaces into multiple languages.
-- [ ] Amazon CloudFront has multiple edge locations around the world to reduce latency.
+- [x] Amazon CloudFront has multiple edge locations around the world to reduce latency.
 - [ ] Amazon Comprehend allows users to build applications that can respond to user requests in many languages.
 - [ ] Elastic Load Balancing can distribute application web traffic to multiple AWS Regions around the world which reduces latency.
 
@@ -4054,17 +4054,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following are main components of the AWS global infrastructure? (Select TWO)
 
 - [ ] Resource groups.
-- [ ] Availability Zones.
+- [x] Availability Zones.
 - [ ] Security groups.
 - [ ] Regions.
-- [ ] Amazon Machine Images (AMIS).
+- [x] Amazon Machine Images (AMIS).
 
  
 
 ### What is the AWS customer responsible for according to the AWS shared responsibility model?
 
 - [ ] Physical access controls.
-- [ ] Data encryption.
+- [x] Data encryption.
 - [ ] Secure disposal of storage devices.
 - [ ] Environmental risk management.
 
@@ -4074,7 +4074,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Use AWS Budgets on each account to pay only to budget.
 - [ ] Contact AWS Support for a monthly bill.
-- [ ] Create an AWS Organization from the payer account and invite the other accounts to join.
+- [x] Create an AWS Organization from the payer account and invite the other accounts to join.
 - [ ] Put all invoices into one Amazon Simple Storage Service (Amazon S3) bucket, load data into Amazon Redshift, and then run a billing report.
 
  
@@ -4082,7 +4082,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What costs are included when comparing AWS Total Cost of Ownership (TCO) with on-premises TCO?
 
-- [ ] Project management.
+- [x] Project management.
 - [ ] Antivirus software licensing.
 - [ ] Data center security.
 - [ ] Software development.
@@ -4093,15 +4093,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] They require the customer to monitor and replace failing instances.
 - [ ] They have better performance than customer-managed services.
-- [ ] They simplify patching and updating underlying OSs.
+- [x] They simplify patching and updating underlying OSs.
 - [ ] They do not require the customer to optimize instance type or size selections.
 
  
 
 ### Which services can be used across hybrid AWS Cloud architectures? (Select TWO)
 
-- [ ] Amazon Route 53.
-- [ ] Virtual Private Gateway.
+- [x] Amazon Route 53.
+- [x] Virtual Private Gateway.
 - [ ] Classic Load Balancer.
 - [ ] Auto Scaling.
 - [ ] Amazon CloudWatch default metrics.
@@ -4111,7 +4111,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which statement best describes Elastic Load Balancing?
 
 - [ ] It translates a domain name into an IP address using DNC.
-- [ ] It distributes incoming application traffic across one or more Amazon EC2 instances.
+- [x] It distributes incoming application traffic across one or more Amazon EC2 instances.
 - [ ] It collects metrics on connected Amazon EC2 instances.
 - [ ] It automatically adjusts the number of Amazon EC2 instances to support incoming traffic.
 
@@ -4121,14 +4121,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Redshift.
 - [ ] Amazon RDS.
-- [ ] Amazon DynamoDB.
+- [x] Amazon DynamoDB.
 - [ ] Amazon S3.
 
  
 
 ### Which AWS service would you use to obtain compliance reports and certificates?
 
-- [ ] AWS Artifact.
+- [x] AWS Artifact.
 - [ ] AWS Lambda.
 - [ ] Amazon Inspector.
 - [ ] AWS Certificate Manager.
@@ -4137,17 +4137,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS services are defined as global instead of regional? (Select TWO)
 
-- [ ] Amazon Route 53.
+- [x] Amazon Route 53.
 - [ ] Amazon EC2.
 - [ ] Amazon S3.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 - [ ] Amazon DynamoDB.
 
  
 
 ### How would an AWS customer easily apply common access controls to a large set of users?
 
-- [ ] Apply an IAM policy to an IAM group.
+- [x] Apply an IAM policy to an IAM group.
 - [ ] Apply an IAM policy to an IAM role.
 - [ ] Apply the same IAM policy to all IAM users with access to the same workload.
 - [ ] Apply an IAM policy to an Amazon Cognito user pool.
@@ -4156,7 +4156,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following is an important architectural design principle when designing cloud applications?
 
-- [ ] Use multiple Availability Zones.
+- [x] Use multiple Availability Zones.
 - [ ] Use tightly coupled components.
 - [ ] Use open source software.
 - [ ] Provision extra capacity.
@@ -4166,7 +4166,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which service allows a company with multiple AWS accounts to combine its usage to obtain volume discounts?
 
 - [ ] AWS Server Migration Service.
-- [ ] AWS Organizations.
+- [x] AWS Organizations.
 - [ ] AWS Budgets.
 - [ ] AWS Trusted Advisor.
 
@@ -4175,10 +4175,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following can an AWS customer use to launch a new Amazon Relational Database Service (Amazon RDS) cluster? (Select TWO)
 
 - [ ] AWS Concierge.
-- [ ] AWS CloudFormation.
+- [x] AWS CloudFormation.
 - [ ] Amazon Simple Storage Service (Amazon S3).
 - [ ] Amazon EC2 Auto Scaling.
-- [ ] AWS Management Console.
+- [x] AWS Management Console.
 
  
 
@@ -4186,7 +4186,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] One-year, No Upfront, Standard RI pricing.
 - [ ] One-year, All Upfront, Convertible RI pricing.
-- [ ] Three-year, All Upfront, Standard RI pricing.
+- [x] Three-year, All Upfront, Standard RI pricing.
 - [ ] Three-year, No Upfront, Convertible RI pricing.
 
  
@@ -4196,15 +4196,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Summaries by Amazon Simple Notification Service (Amazon SNS).
 - [ ] Free Amazon Elasticsearch Service analytics.
 - [ ] Provided at no charge.
-- [ ] Real-time monitoring.
-- [ ] Adjustable retention.
+- [x] Real-time monitoring.
+- [x] Adjustable retention.
 
  
 
 ### Which of the following is an AWS-managed compute service?
 
 - [ ] Amazon SWF.
-- [ ] Amazon EC2.
+- [x] Amazon EC2.
 - [ ] AWS Lambda.
 - [ ] Amazon Aurora.
 
@@ -4213,7 +4213,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?
 
 - [ ] Amazon Elastic Compute Cloud (Amazon EC2).
-- [ ] AWS Lambda.
+- [x] AWS Lambda.
 - [ ] Amazon DynamoDB.
 - [ ] AWS CodeCommit.
 
@@ -4223,7 +4223,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Patching underlying infrastructure
 - [ ] Physical security
-- [ ] Patching Amazon EC2 instances
+- [x] Patching Amazon EC2 instances
 - [ ] Patching network infrastructure
 
  
@@ -4232,14 +4232,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It is solely the responsibility of the customer.
 - [ ] It is solely the responsibility of AWS.
-- [ ] It is shared between AWS and the customer.
+- [x] It is shared between AWS and the customer.
 - [ ] It is not part of the AWS shared responsibility model.
 
  
 
 ### Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?
 
-- [ ] Amazon GuardDuty.
+- [x] Amazon GuardDuty.
 - [ ] Amazon Macie.
 - [ ] Amazon Inspector.
 - [ ] AWS Shield.
@@ -4249,18 +4249,18 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following BEST describe the AWS pricing model? (Select TWO)
 
 - [ ] Fixed-term.
-- [ ] Pay-as-you-go.
+- [x] Pay-as-you-go.
 - [ ] Colocation.
 - [ ] Planned.
-- [ ] Variable cost.
+- [x] Variable cost.
 
  
 
 ### Under the shared responsibility model, which of the following tasks are the responsibility of the AWS customer? (Select TWO)
 
-- [ ] Ensuring that application data is encrypted at rest.
+- [x] Ensuring that application data is encrypted at rest.
 - [ ] Ensuring that AWS NTP servers are set to the correct time.
-- [ ] Ensuring that users have received security training in the use of AWS services.
+- [x] Ensuring that users have received security training in the use of AWS services.
 - [ ] Ensuring that access to data centers is restricted.
 - [ ] Ensuring that hardware is disposed of properly.
 
@@ -4270,7 +4270,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Create one global AWS account and move all AWS resources to tha account.
 - [ ] Sign up for three years of Reserved Instance pricing up front.
-- [ ] Use the consolidated billing feature from AWS Organizations.
+- [x] Use the consolidated billing feature from AWS Organizations.
 - [ ] Sign up for the AWS Enterprise support plan to get volume discounts.
 
  
@@ -4279,7 +4279,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] A Partial Upfront Reserved Instances for a 1-year term.
 - [ ] All Upfront Reserved instances for a 1 year form.
-- [ ] All Upfront Reserved Instances for a 3 year term.
+- [x] All Upfront Reserved Instances for a 3 year term.
 - [ ] No Upfront Reserved Instances for a 3 year term.
 
  
@@ -4287,17 +4287,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS services should be used for read/write of constantly changing data? (Select TWO)
 
 - [ ] Amazon Glacier.
-- [ ] Amazon RDS.
+- [x] Amazon RDS.
 - [ ] AWS Snowball.
 - [ ] Amazon Redshift.
-- [ ] Amazon EFS.
+- [x] Amazon EFS.
 
  
 
 ### Which AWS service allows users to identify the changes made to a resource over time?
 
 - [ ] Amazon Inspector.
-- [ ] AWS Config.
+- [x] AWS Config.
 - [ ] AWS Service Catalog.
 - [ ] AWS IAM.
 
@@ -4306,7 +4306,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### According to best practices, how should an application be designed to run in the AWS Cloud?
 
 - [ ] Use tighly coupled components.
-- [ ] Use loosely coupled components.
+- [x] Use loosely coupled components.
 - [ ] Use infrequently coupled components.
 - [ ] Use frequently coupled components.
 
@@ -4314,9 +4314,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which benefits are included with the AWS Business Support plan? (Select TWO)
 
-- [ ] 24/7 assistance by way of live chat or a telephone call.
+- [x] 24/7 assistance by way of live chat or a telephone call.
 - [ ] Support from a dedicated AWS Technical Account Manager.
-- [ ] An unlimited number of cases and contacts.
+- [x] An unlimited number of cases and contacts.
 - [ ] 15-minute response time for production system interruption cases.
 - [ ] Annual operational reviews with AWS Solutions Architects.
 
@@ -4324,7 +4324,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following is an AWS managed Domain Name System (DNS) web service?
 
-- [ ] Amazon Route 53.
+- [x] Amazon Route 53.
 - [ ] Amazon Neptune.
 - [ ] Amazon SageMaker.
 - [ ] Amazon Lightsail.
@@ -4333,7 +4333,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A user must meet compliance and software licensing requirements that state a workload must be hosted on a physical server. When Amazon EC2 instance pricing option will meet these requirements?
 
-- [ ] Dedicated Hosts.
+- [x] Dedicated Hosts.
 - [ ] Dedicated Instances.
 - [ ] Spot Instances.
 - [ ] Reserved Instances.
@@ -4344,7 +4344,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Dedicated RIs.
 - [ ] Scheduled RIs.
-- [ ] Convertible RIs.
+- [x] Convertible RIs.
 - [ ] Standard RIs.
 
  
@@ -4353,17 +4353,17 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Machine Learning.
 - [ ] Amazon SQS.
-- [ ] Amazon ElastiCache.
+- [x] Amazon ElastiCache.
 - [ ] Amazon EC2 Instance Store.
 
  
 
 ### When should a company consider using Amazon EC2 Spot Instances? (Select TWO)
 
-- [ ] For non-production applications.
+- [x] For non-production applications.
 - [ ] For stateful workloads.
 - [ ] For applications that cannot have interruptions.
-- [ ] For fault-tolerant flexible applications.
+- [x] For fault-tolerant flexible applications.
 - [ ] For sensitive database applications.
 
  
@@ -4371,9 +4371,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS tools assist with estimating costs? (Select three)
 
 - [ ] Detailed billing report.
-- [ ] Cost allocation tags.
-- [ ] AWS Simple Monthly Calculator.
-- [ ] AWS Total Cost of Ownership (TCO) Calculator.
+- [x] Cost allocation tags.
+- [x] AWS Simple Monthly Calculator.
+- [x] AWS Total Cost of Ownership (TCO) Calculator.
 - [ ] Cost Estimator.
 
  
@@ -4381,7 +4381,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company wants to focus on business activities instead of managing compute and capacity. Which AWS service can be used to automatically add or remove Amazon EC2 instances based on demand?
 
 - [ ] Elastic Load Balancer.
-- [ ] Amazon EC2 Auto Scaling.
+- [x] Amazon EC2 Auto Scaling.
 - [ ] Amazon Route 53.
 - [ ] Amazon CloudFront.
 
@@ -4389,7 +4389,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which is the minimum AWS Support plan that includes Infrastructure Event Management without additional costs?
 
-- [ ] Enterprise.
+- [x] Enterprise.
 - [ ] Business.
 - [ ] Developer.
 - [ ] Basic.
@@ -4399,7 +4399,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Access keys in AWS Identity and Access Management (IM1) are used to:
 
 - [ ] Log in to the AWS Management Console.
-- [ ] Make programmatic calls to AWS from AWS APIs.
+- [x] Make programmatic calls to AWS from AWS APIs.
 - [ ] Log in to Amazon EC2 instances.
 - [ ] Authenticate to AWS CodeCommit repositories.
 
@@ -4410,7 +4410,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Glue.
 - [ ] AWS Data Pipeline.
 - [ ] Amazon CloudSearch.
-- [ ] Amazon Athena.
+- [x] Amazon Athena.
 
  
 
@@ -4418,28 +4418,28 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It supplies an online IT ticketing platform for resource requests.
 - [ ] It supports automatic code validation services.
-- [ ] It provides the ability to programmatically provision existing resources.
+- [x] It provides the ability to programmatically provision existing resources.
 - [ ] It automates the resource request process from a company’s IT vendor list.
 
  
 
 ### Which AWS services can be used to gather information about AWS account activity? (Select TWO)
 
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 - [ ] AWS Cloud9.
 - [ ] AWS CloudTrail.
 - [ ] AWS CloudHSM.
-- [ ] Amazon CloudWatch.
+- [x] Amazon CloudWatch.
 
  
 
 ### Which of the following are characteristics of Amazon S3? (Select TWO)
 
 - [ ] A global file system.
-- [ ] An object store.
+- [x] An object store.
 - [ ] A local file store.
 - [ ] A network file system.
-- [ ] A durable storage system.
+- [x] A durable storage system.
 
  
 
@@ -4447,7 +4447,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Budgets.
 - [ ] Cost Explorer.
-- [ ] AWS Total Cost of Ownership (TCO) Calculator.
+- [x] AWS Total Cost of Ownership (TCO) Calculator.
 - [ ] AWS Well-Architected Tool.
 
  
@@ -4456,14 +4456,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon EMR.
 - [ ] Elastic Load Balancing.
-- [ ] AWS Lambda.
+- [x] AWS Lambda.
 - [ ] AWS Mobile Hub.
 
  
 
 ### The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
 
-- [ ] Cost allocation tags.
+- [x] Cost allocation tags.
 - [ ] Consolidated billing.
 - [ ] AWS Budgets.
 - [ ] AWS Marketplace.
@@ -4473,7 +4473,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance?
 
 - [ ] AWS Cost Explorer.
-- [ ] AWS Trusted Advisor.
+- [x] AWS Trusted Advisor.
 - [ ] Consolidated billing.
 - [ ] Detailed billing.
 
@@ -4483,7 +4483,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Cloud-native.
 - [ ] Partner network.
-- [ ] Hybrid architecture.
+- [x] Hybrid architecture.
 - [ ] Infrastructure as a service.
 
  
@@ -4493,14 +4493,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Load balancing.
 - [ ] Automatic failover.
 - [ ] Round robin.
-- [ ] Auto Scaling.
+- [x] Auto Scaling.
 
  
 
 ### Which AWS service is a managed NoSQL database?
 
 - [ ] Amazon Redshift.
-- [ ] Amazon DynamoDB.
+- [x] Amazon DynamoDB.
 - [ ] Amazon Aurora.
 - [ ] Amazon RDS for ManaDB.
 
@@ -4509,7 +4509,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is a correct relationship between regions, Availability Zones, and edge locations?
 
 - [ ] Data centers contain regions.
-- [ ] Regions contain Availability Zones.
+- [x] Regions contain Availability Zones.
 - [ ] Availability Zones contain edge locations.
 - [ ] Edge locations contain regions.
 
@@ -4517,7 +4517,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What approach to transcoding a large number of individual video files adheres to AWS architecture principles?
 
-- [ ] Using many instances in parallel.
+- [x] Using many instances in parallel.
 - [ ] Using a single large instance during off-peak hours.
 - [ ] Using dedicated hardware.
 - [ ] Using a large GPU instance type.
@@ -4526,8 +4526,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS services can host a Microsoft SQL Server database? (Select TWO)
 
-- [ ] Amazon EC2.
-- [ ] Amazon Relational Database Service (Amazon RDS).
+- [x] Amazon EC2.
+- [x] Amazon Relational Database Service (Amazon RDS).
 - [ ] Amazon Aurora.
 - [ ] Amazon Redshift.
 - [ ] Amazon S3.
@@ -4537,7 +4537,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS IAM feature allows developers to access AWS services through the AWS CLI?
 
 - [ ] API keys.
-- [ ] Access keys.
+- [x] Access keys.
 - [ ] User names/Passwords.
 - [ ] SSH keys.
 
@@ -4545,7 +4545,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### The user is fully responsible for which action when running workloads on AWS?
 
-- [ ] Patching the infrastructure components.
+- [x] Patching the infrastructure components.
 - [ ] Maintaining the underlying infrastructure components.
 - [ ] Maintaining physical and environmental controls.
 - [ ] Implementing controls to route application traffic.
@@ -4555,7 +4555,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS support plan includes a dedicated Technical Account Manager?
 
 - [ ] Developer.
-- [ ] Enterprise.
+- [x] Enterprise.
 - [ ] Business.
 - [ ] Basic.
 
@@ -4564,7 +4564,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What time-savings advantage is offered with the use of Amazon Rekognition?
 
 - [ ] Amazon Rekognition provides automatic watermarking of images.
-- [ ] Amazon Rekognition provides automatic detection of objects appearing in pictures.
+- [x] Amazon Rekognition provides automatic detection of objects appearing in pictures.
 - [ ] Amazon Recognition provides the ability to resize millions of images automatically.
 - [ ] Amazon Rekognition uses Amazon Mechanical Turk to allow humans to bid on object detection jobs.
 
@@ -4575,7 +4575,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon EBS.
 - [ ] Amazon Redshift.
 - [ ] AWS CloudTrail.
-- [ ] AWS Lambda.
+- [x] AWS Lambda.
 
  
 
@@ -4583,7 +4583,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS manages the data stored in Amazon RDS tables.
 - [ ] AWS manages the maintenance of the operating system.
-- [ ] AWS automatically scales up instance types on demand.
+- [x] AWS automatically scales up instance types on demand.
 - [ ] AWS manages the database type.
 
  
@@ -4592,7 +4592,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Implementing elasticity enabling the application to scale up or scale down as demand changes.
 - [ ] Enabling several EC2 instances to run in parallel to achieve better performance.
-- [ ] Focusing on decoupling components by isolating them and ensuring individual components can function when other components.
+- [x] Focusing on decoupling components by isolating them and ensuring individual components can function when other components.
 - [ ] Doubling EC2 computing resources to increase system fault tolerance.
 
  
@@ -4601,7 +4601,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Partner Network Technology Partners.
 - [ ] AWS Marketplace.
-- [ ] AWS Partner Network Consulting Partners.
+- [x] AWS Partner Network Consulting Partners.
 - [ ] AWS Service Catalog.
 
  
@@ -4610,7 +4610,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Glacier.
 - [ ] AWS Storage Gateway.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon EBS.
 
  
@@ -4619,7 +4619,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Implement automation.
 - [ ] Design for agility.
-- [ ] Design for failure.
+- [x] Design for failure.
 - [ ] Implement elasticity.
 
  
@@ -4627,7 +4627,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which service should a customer use to consolidate and centrally manage multiple AWS accounts?
 
 - [ ] AWS IAM.
-- [ ] AWS Organizations.
+- [x] AWS Organizations.
 - [ ] AWS Schema Conversion Tool.
 - [ ] AWS Config.
 
@@ -4635,7 +4635,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### How can a company reduce its Total Cost of Ownership (TCO) using AWS?
 
-- [ ] By minimizing large capital expenditures.
+- [x] By minimizing large capital expenditures.
 - [ ] By having no responsibility for third-party license costs.
 - [ ] By having no operational expenditures.
 - [ ] By having AWS manage applications.
@@ -4645,10 +4645,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Select TWO)
 
 - [ ] AWS Trusted Advisor.
-- [ ] AWS Online Tech Talks.
+- [x] AWS Online Tech Talks.
 - [ ] AWS Blog.
 - [ ] AWS Forums.
-- [ ] AWS Classroom Training.
+- [x] AWS Classroom Training.
 
  
 
@@ -4656,9 +4656,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Secrets Manager.
 - [ ] AWS Certificate Manager.
-- [ ] AWS Multi-Factor Authentication (AWS MFA).
+- [x] AWS Multi-Factor Authentication (AWS MFA).
 - [ ] Security groups.
-- [ ] Password policies.
+- [x] Password policies.
 
  
 
@@ -4666,8 +4666,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon CloudFront distributions.
 - [ ] Amazon Route 53.
-- [ ] Security Groups.
-- [ ] Subnets.
+- [x] Security Groups.
+- [x] Subnets.
 - [ ] Elastic Load Balancing.
 
  
@@ -4675,7 +4675,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### For which auditing process does AWS have sole responsibility?
 
 - [ ] AWS IAM policies.
-- [ ] Physical security.
+- [x] Physical security.
 - [ ] Amazon S3 bucket policies.
 - [ ] AWS CloudTrail Logs.
 
@@ -4683,19 +4683,19 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following are advantages of AWS consolidated billing? (Select TWO)
 
-- [ ] The ability to receive one bill for multiple accounts.
+- [x] The ability to receive one bill for multiple accounts.
 - [ ] Service limits increasing by default in all accounts.
 - [ ] A fixed discount on the monthly bill.
-- [ ] Potential volume discounts, as usage in all accounts is combined.
+- [x] Potential volume discounts, as usage in all accounts is combined.
 - [ ] The automatic extension of the master account’s AWS support plan to all accounts.
 
  
 
 ### Which of the following common IT tasks can AWS cover to free up company IT resources? (Select TWO)
 
-- [ ] Patching databases software.
+- [x] Patching databases software.
 - [ ] Testing application releases.
-- [ ] Backing up databases.
+- [x] Backing up databases.
 - [ ] Creating database schema.
 - [ ] Running penetration tests.
 
@@ -4704,7 +4704,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A company wants to expand from one AWS Region into a second AWS Region. What does the company need to do to start supporting the new Region?
 
 - [ ] Contact an AWS Account Manager to sign a new contract.
-- [ ] Move an Availability Zone to the new Region.
+- [x] Move an Availability Zone to the new Region.
 - [ ] Begin deploying resources in the second Region.
 - [ ] Download the AWS Management Console for the new Region.
 
@@ -4713,7 +4713,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Why is it beneficial to use Elastic Load Balancers with applications?
 
 - [ ] They allow for the conversion from Application Load.
-- [ ] Balancers to Classic Load Balancers.
+- [x] Balancers to Classic Load Balancers.
 - [ ] They are capable of handling constant changes in network traffic patterns.
 - [ ] They automatically adjust capacity. They are provided at no charge to users.
 
@@ -4730,7 +4730,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
 
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon Glacier.
 - [ ] Amazon EBS.
 - [ ] Amazon EC2 Instance Store.
@@ -4741,7 +4741,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Enterprise Support.
 - [ ] AWS Solutions Architects.
-- [ ] AWS Professional Services.
+- [x] AWS Professional Services.
 - [ ] AWS Account Managers.
 
  
@@ -4751,13 +4751,13 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Basic.
 - [ ] Developer.
 - [ ] Business.
-- [ ] Enterprise.
+- [x] Enterprise.
 
  
 
 ### If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?
 
-- [ ] AWS Config.
+- [x] AWS Config.
 - [ ] AWS Trusted Advisor.
 - [ ] Amazon CloudWatch.
 - [ ] Amazon Inspector.
@@ -4767,8 +4767,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### How does AWS Trusted Advisor provide guidance to users of the AWS Cloud? (Select TWO)
 
 - [ ] It identifies software vulnerabilities in applications running on AWS.
-- [ ] It provides a list of cost optimization recommendations based on current AWS usage.
-- [ ] It detects potential security vulnerabilities caused by permissions settings on account resources.
+- [x] It provides a list of cost optimization recommendations based on current AWS usage.
+- [x] It detects potential security vulnerabilities caused by permissions settings on account resources.
 - [ ] It automatically corrects potential security issues caused by permissions settings on account resources.
 - [ ] It provides proactive alerting whenever an Amazon EC2 instance has been compromised.
 
@@ -4779,14 +4779,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Batch.
 - [ ] AWS Artifact.
 - [ ] AWS Data Pipeline.
-- [ ] Amazon RDS.
+- [x] Amazon RDS.
 
  
 
 ### Which of the following Identity and Access Management (IAM) entities is associated with an access key ID and secret access key when using AWS Command Line Interface (AWS CLI)?
 
 - [ ] IAM group.
-- [ ] IAM user.
+- [x] IAM user.
 - [ ] IAM role.
 - [ ] IAM policy.
 
@@ -4796,7 +4796,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Ensuring that disk drives are wiped after use.
 - [ ] Ensuring that firmware is updated on hardware devices.
-- [ ] Ensuring that data is encrypted at rest.
+- [x] Ensuring that data is encrypted at rest.
 - [ ] Ensuring that network cables are category six or higher.
 
  
@@ -4806,15 +4806,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon S3.
 - [ ] Amazon Glacier.
 - [ ] Amazon EBS.
-- [ ] Amazon EFS.
+- [x] Amazon EFS.
 
  
 
 ### What credential components are required to gain programmatic access to an AWS account? (Select TWO)
 
-- [ ] An access key ID.
+- [x] An access key ID.
 - [ ] A primary key.
-- [ ] A secret access key.
+- [x] A secret access key.
 - [ ] A user ID.
 - [ ] A secondary key.
 
@@ -4825,14 +4825,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Providing a key for Amazon S3 client-side encryption.
 - [ ] Configuration of an Amazon EC2 instance.
 - [ ] Environmental controls of physical AWS data centers.
-- [ ] Awareness.
+- [x] Awareness.
 
  
 
 ### Which type of AWS storage is ephemeral and is deleted when an instance is stopped Of terminated?
 
 - [ ] Amazon EBS.
-- [ ] Amazon EC2 instance store.
+- [x] Amazon EC2 instance store.
 - [ ] Amazon EFS.
 - [ ] Amazon S3.
 
@@ -4840,7 +4840,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following is an advantage of consolidated billing on AWS?
 
-- [ ] Volume pricing qualification.
+- [x] Volume pricing qualification.
 - [ ] Shared access permissions.
 - [ ] Multiple bills per account.
 - [ ] Eliminates the need for tagging.
@@ -4851,7 +4851,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon EC2, Amazon S3, Amazon Athena.
 - [ ] Amazon Kinesis, Amazon SQS, Amazon EMR.
-- [ ] AWS Step Functions, Amazon DynamoDB, Amazon SNS.
+- [x] AWS Step Functions, Amazon DynamoDB, Amazon SNS.
 - [ ] Amazon Athena, Amazon Cognito, Amazon EC2.
 
  
@@ -4860,7 +4860,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Spot Instances.
 - [ ] Reserved Instances.
-- [ ] Dedicated Hosts.
+- [x] Dedicated Hosts.
 - [ ] On-Demand Instances.
 
  
@@ -4868,10 +4868,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following security measures protect access to an AWS account? (Select TWO)
 
 - [ ] Enable AWS CloudTrail.
-- [ ] Grant least privilege access to IAM users.
+- [x] Grant least privilege access to IAM users.
 - [ ] Create one IAM user and share with many developers and users.
 - [ ] Enable Amazon CloudFront.
-- [ ] Activate multi-factor authentication (MFA) for privileged users.
+- [x] Activate multi-factor authentication (MFA) for privileged users.
 
  
 
@@ -4880,14 +4880,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS CodePipeline.
 - [ ] AWS CodeDeploy.
 - [ ] AWS Direct Connect.
-- [ ] AWS CloudFormation.
+- [x] AWS CloudFormation.
 
  
 
 ### What is an advantage of deploying an application across multiple Availability Zones?
 
 - [ ] There is a lower risk of service failure if a natural disaster causes a service disruption in a given AWS Region.
-- [ ] The application will have higher availability because it can withstand a service disruption in one Availability Zone.
+- [x] The application will have higher availability because it can withstand a service disruption in one Availability Zone.
 - [ ] There will be better coverage as Availability Zones are geographical^ distant and can serve a wider area.
 - [ ] There will be decreased application latency that will improve the user experience.
 
@@ -4895,7 +4895,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### A customer needs to run a MySQL database that easily scales. Which AWS service should they use?
 
-- [ ] Amazon Aurora.
+- [x] Amazon Aurora.
 - [ ] Amazon Redshift.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon ElastiCache.
@@ -4905,7 +4905,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is an AWS Cloud architecture design principle?
 
 - [ ] Implement single points of failure.
-- [ ] Implement loose coupling.
+- [x] Implement loose coupling.
 - [ ] Implement monolithic design.
 - [ ] Implement vertical scaling.
 
@@ -4916,7 +4916,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Trusted Advisor.
 - [ ] AWS Support case.
 - [ ] Concierge team.
-- [ ] Amazon Connect.
+- [x] Amazon Connect.
 
  
 
@@ -4924,14 +4924,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Moving from variable operational expense ( opex ) to upfront capital expense (capex).
 - [ ] Moving from upfront capital expense (capex) to variable capital expense (capex).
-- [ ] Moving from upfront capital expense (capex) to variable operational expense ( opex ).
+- [x] Moving from upfront capital expense (capex) to variable operational expense ( opex ).
 - [ ] Elimination of upfront capital expense (capex) and elimination of variable operational expense ( opex ).
 
  
 
 ### When performing a cost analysis that supports physical isolation of a customer workload, which compute hosting model should be accounted for in the Total Cost of Ownership (TCO)?
 
-- [ ] Dedicated Hosts
+- [x] Dedicated Hosts
 - [ ] Reserved Instances
 - [ ] On-Demand Instances
 - [ ] No Upfront Reserved Instances
@@ -4941,7 +4941,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which AWS service should be used for long-term, low-cost storage of data backups?
 
 - [ ] Amazon RDS.
-- [ ] Amazon Glacier.
+- [x] Amazon Glacier.
 - [ ] AWS Snowball.
 - [ ] AWS EBS.
 
@@ -4950,7 +4950,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which is the MINIMUM AWS Support plan that provides technical support through phone calls?
 
 - [ ] Enterprise.
-- [ ] Business.
+- [x] Business.
 - [ ] Developer.
 - [ ] Basic.
 
@@ -4961,26 +4961,26 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Reserved Instances.
 - [ ] On-Demand.
 - [ ] Dedicated Hosts.
-- [ ] Spot Instances.
+- [x] Spot Instances.
 
  
 
 ### Which of the following AWS services can be used to serve large amounts of online video content with the lowest possible latency? (Select TWO)
 
 - [ ] appGateway.
-- [ ] Amazon S3.
+- [x] Amazon S3.
 - [ ] Amazon Elastic File System (EFS).
 - [ ] Amazon Glacier.
-- [ ] Amazom CloudFront.
+- [x] Amazom CloudFront.
 
  
 
 ### What can AWS edge locations be used for? (Select TWO)
 
 - [ ] Hosting applications.
-- [ ] Delivering content closer to users.
+- [x] Delivering content closer to users.
 - [ ] Running NoSQL database caching services.
-- [ ] Reducing traffic on the server by caching responses.
+- [x] Reducing traffic on the server by caching responses.
 - [ ] Sending notification messages to end users.
 
  
@@ -4989,7 +4989,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Total Cost of Ownership (TCO) Calculator.
 - [ ] Cost Explorer.
-- [ ] AWS Budgets.
+- [x] AWS Budgets.
 - [ ] AWS Migration Hub.
 
  
@@ -4998,7 +4998,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Service Health Dashboard.
 - [ ] AWS X-Ray.
-- [ ] AWS Personal Health Dashboard.
+- [x] AWS Personal Health Dashboard.
 - [ ] Amazon CloudWatch.
 
  
@@ -5007,7 +5007,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] It allows the business to eliminate IT bills.
 - [ ] It allows the business to put a server in each customer’s data center.
-- [ ] It allows the business to focus on business activities.
+- [x] It allows the business to focus on business activities.
 - [ ] It allows the business to leave servers unpatched.
 
  
@@ -5016,7 +5016,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS Senior Support Engineers.
 - [ ] AWS Technical Account Managers.
-- [ ] AWS Trusted Advisor.
+- [x] AWS Trusted Advisor.
 - [ ] AWS Discussion Forums.
 
  
@@ -5025,7 +5025,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Deploy applications across multiple Availability Zones within an AWS Region.
 - [ ] Use a hybrid cloud computing deployment model within the geographic area.
-- [ ] Deploy applications across multiple AWS Regions.
+- [x] Deploy applications across multiple AWS Regions.
 - [ ] Store application artifacts using AWS Artifact and replicate them across multiple AWS Regions.
 
  
@@ -5035,7 +5035,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Ensuring network connectivity from AWS to the internet.
 - [ ] Patching and fixing flaws within the AWS Cloud infrastructure.
 - [ ] Ensuring the physical security of cloud data centers.
-- [ ] Ensuring Amazon EBS volumes are backed up.
+- [x] Ensuring Amazon EBS volumes are backed up.
 
  
 
@@ -5044,15 +5044,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] A company wants to move its main website to AWS from an on-premises web server.
 - [ ] A company has a number of application services whose Service Level Agreement (SLA) requires 99.999% uptime.
 - [ ] A company’s heavily used legacy database is currently running on-premises.
-- [ ] A company has a number of infrequent, interruptible jobs that are currently using On-Demand Instances.
+- [x] A company has a number of infrequent, interruptible jobs that are currently using On-Demand Instances.
 
  
 
 ### A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer’s decision? (Select TWO)
 
-- [ ] Reduced latency to users.
+- [x] Reduced latency to users.
 - [ ] The application’s presentation in the local language.
-- [ ] Data sovereignty compliance.
+- [x] Data sovereignty compliance.
 - [ ] Cooling costs in hotter climates.
 - [ ] Proximity to the customer’s office for on-site visits.
 
@@ -5060,7 +5060,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which AWS service provides alerts when an AWS event may impact a company’s AWS resources?
 
-- [ ] AWS Personal Health Dashboard.
+- [x] AWS Personal Health Dashboard.
 - [ ] AWS Service Health Dashboard.
 - [ ] AWS Trusted Advisor.
 - [ ] AWS Infrastructure Event Management.
@@ -5072,7 +5072,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Backup and restore.
 - [ ] Pilot light.
 - [ ] Warm standby.
-- [ ] Multi-site active-active.
+- [x] Multi-site active-active.
 
  
 
@@ -5081,23 +5081,23 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon CodeStar.
 - [ ] AWS Command Line Interface (AWS CLI).
 - [ ] Amazon Cognito.
-- [ ] AWS CodeCommit.
+- [x] AWS CodeCommit.
 
  
 
 ### How can a customer increase security to AWS account logons? (Select TWO)
 
 - [ ] Configure AWS Certificate Manager
-- [ ] Enable Multi-Factor Authentication (MFA)
+- [x] Enable Multi-Factor Authentication (MFA)
 - [ ] Use Amazon Cognito to manage access
-- [ ] Configure a strong password policy
+- [x] Configure a strong password policy
 - [ ] Enable AWS Organizations
 
  
 
 ### Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
 
-- [ ] Availability Zone
+- [x] Availability Zone
 - [ ] Edge location
 - [ ] Region
 - [ ] Private networking
@@ -5108,7 +5108,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] The ability to bid for a lower hourly cost.
 - [ ] Paying a daily rate regardless of time used.
-- [ ] Paying only for time used.
+- [x] Paying only for time used.
 - [ ] Pre-paying for instances and paying a lower hourly rate.
 
  
@@ -5116,9 +5116,9 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### What can assist in evaluating an application for migration to the cloud? (Select TWO)
 
 - [ ] AWS Trusted Advisor.
-- [ ] AWS Professional Services.
+- [x] AWS Professional Services.
 - [ ] AWS Systems Manager.
-- [ ] AWS Partner Network (APN).
+- [x] AWS Partner Network (APN).
 - [ ] AWS Secrets Manager.
 
  
@@ -5127,16 +5127,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Host Amazon EC2 instances closer to users.
 - [ ] Help lower latency and improve performance for users.
-- [ ] Cache frequently changing data without reaching the origin server.
+- [x] Cache frequently changing data without reaching the origin server.
 - [ ] Refresh data changes daily.
 
  
 
 ### Which of the following are valid ways for a customer to interact with AWS services? (Select TWO)
 
-- [ ] Command line interface.
+- [x] Command line interface.
 - [ ] On-premises.
-- [ ] Software Development Kits.
+- [x] Software Development Kits.
 - [ ] Software-as-a-service.
 - [ ] Hybrid.
 
@@ -5144,7 +5144,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### What is a value proposition of the AWS Cloud?
 
-- [ ] AWS is responsible for security in the AWS Cloud.
+- [x] AWS is responsible for security in the AWS Cloud.
 - [ ] No long-term contract is required.
 - [ ] Provision new servers in days.
 - [ ] AWS manages user applications in the AWS Cloud.
@@ -5156,14 +5156,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Amazon EC2 Spot Instances.
 - [ ] Amazon EC2 Dedicated Instances.
 - [ ] Amazon EC2 On-Demand Instances.
-- [ ] Amazon EC2 Reserved Instances.
+- [x] Amazon EC2 Reserved Instances.
 
  
 
 ### Which AWS service is used to track record, and audit configuration changes made to AWS resources?
 
 - [ ] AWS Shield.
-- [ ] AWS Config.
+- [x] AWS Config.
 - [ ] AWS IAM.
 - [ ] Amazon Inspector.
 
@@ -5172,7 +5172,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which feature of the AWS Cloud will support an international company’s requirement for low latency to all of its customers?
 
 - [ ] Fault tolerance.
-- [ ] Global reach.
+- [x] Global reach.
 - [ ] Pay-as-you-go pricing.
 - [ ] High availability.
 
@@ -5181,7 +5181,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### How can one AWS account use Reserved Instances from another AWS account?
 
 - [ ] By using Amazon EC2 Dedicated Instances.
-- [ ] By using AWS Organizations consolidated billing.
+- [x] By using AWS Organizations consolidated billing.
 - [ ] By using the AWS Cost Explorer tool.
 - [ ] By using AWS Budgets.
 
@@ -5191,16 +5191,16 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] AWS automatically distributes the data globally for higher durability.
 - [ ] AWS will take care of operating the application.
-- [ ] AWS makes it easy to architect for high availability.
+- [x] AWS makes it easy to architect for high availability.
 - [ ] AWS can easily accommodate application demand changes.
-- [ ] AWS takes care of application security patching.
+- [x] AWS takes care of application security patching.
 
  
 
 ### Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?
 
 - [ ] Amazon RDS.
-- [ ] Amazon EC2.
+- [x] Amazon EC2.
 - [ ] Amazon ElastiCache.
 - [ ] AWS Fargate.
 
@@ -5211,8 +5211,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Implementing Amazon Rekognition.
 - [ ] Using AWS Shield-protected resources.
 - [ ] Blocking access with Security Groups.
-- [ ] Using Multi-Factor Authentication (MFA).
-- [ ] Enforcing password strength and expiration.
+- [x] Using Multi-Factor Authentication (MFA).
+- [x] Enforcing password strength and expiration.
 
  
 
@@ -5220,14 +5220,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Amazon Glacier
 - [ ] AWS Snowball
-- [ ] AWS Storage Gateway
+- [x] AWS Storage Gateway
 - [ ] Amazon Elastic Block Storage (Amazon EBS)
 
  
 
 ### Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?
 
-- [ ] AWS Marketplace.
+- [x] AWS Marketplace.
 - [ ] Amazon Lumberyard.
 - [ ] AWS Artifact.
 - [ ] Amazon CloudSearch.
@@ -5237,7 +5237,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following is a component of the AWS Global Infrastructure?
 
 - [ ] Amazon Alexa.
-- [ ] AWS Regions.
+- [x] AWS Regions.
 - [ ] Amazon Lightsail.
 - [ ] AWS Organizations.
 
@@ -5247,15 +5247,15 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] On-Demand Instances.
 - [ ] Reserved Instances.
-- [ ] Spot Instances.
+- [x] Spot Instances.
 - [ ] Convertible Reserved Instances.
 
  
 
 ### A company wants to migrate its applications to a VPC on AWS These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
 
-- [ ] Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated
-- [ ] Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC
+- [x] Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated
+- [x] Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC
 - [ ] Use Amazon Athena to query data from the on-premises database servers
 - [ ] Connect the company’s on-premises data center to AWS using AWS Direct Connect
 - [ ] Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers
@@ -5265,7 +5265,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A Cloud Practitioner must determine if any security groups in an AW account have been provisioned to allow unrestricted access for specific ports What is the SIMPLEST way to do this?
 
 - [ ] Review the inbound rules for each security group in the Amazon EC2 management console to check for port 0.0.0.0/0.
-- [ ] Run AWS Trusted Advisor and review the findings.
+- [x] Run AWS Trusted Advisor and review the findings.
 - [ ] Open the AWS IAM console and check the inbound rule filters for open access.
 - [ ] In AWS Config, create a custom rule that invokes an AWS Lambda function to review firewall rules for inbound access.
 
@@ -5274,8 +5274,8 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following security-related services does AWS offer? (Select TWO)
 
 - [ ] Multi-factor authentication physical tokens.
-- [ ] AWS Trusted Advisor security checks.
-- [ ] Data encryption.
+- [x] AWS Trusted Advisor security checks.
+- [x] Data encryption.
 - [ ] Automated penetration testing.
 - [ ] Amazon S3 copyrighted content detection.
 
@@ -5283,10 +5283,10 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ### Which of the following services have Distributed Denial of Service (DDoS) mitigation features? (Select TWO)
 
-- [ ] AWS WAF.
+- [x] AWS WAF.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon EC2.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 - [ ] Amazon Inspector.
 
  
@@ -5294,7 +5294,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### Which of the following AWS features enables a user to launch a pre-configured Amazon Elastic Compute Cloud (Amazon EC2) instance?
 
 - [ ] Amazon Elastic Block Store (Amazon EBS).
-- [ ] Amazon Machine Image.
+- [x] Amazon Machine Image.
 - [ ] Amazon EC2 Systems Manager.
 - [ ] Amazon AppStream 2.0.
 
@@ -5303,7 +5303,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 ### A solution that is able to support growth in users, traffic, or data size with no drop in performance aligns with which cloud architecture principle?
 
 - [ ] Think parallel.
-- [ ] Implement elasticity.
+- [x] Implement elasticity.
 - [ ] Decouple your components.
 - [ ] Design for failure.
 
@@ -5313,14 +5313,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 - [ ] Easy and fast deployment of applications in multiple Regions around the world.
 - [ ] Security of the AWS Cloud.
-- [ ] Elasticity of the AWS Cloud.
+- [x] Elasticity of the AWS Cloud.
 - [ ] Lower variable costs due to massive economies of scale.
 
  
 
 ### What can users access from AWS Artifact?
 
-- [ ] AWS security and compliance documents.
+- [x] AWS security and compliance documents.
 - [ ] A download of configuration management details for all AWS resources.
 - [ ] Training materials for AWS services.
 - [ ] A security assessment of the applications deployed in the AWS Cloud.
@@ -5332,7 +5332,7 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] Greater variable costs and greater upfront costs.
 - [ ] Fixed usage costs and lower upfront costs.
 - [ ] Lower variable costs and greater upfront costs.
-- [ ] Lower variable costs and lower upfront costs.
+- [x] Lower variable costs and lower upfront costs.
 
  
 
@@ -5341,14 +5341,14 @@ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 - [ ] AWS Lambda.
 - [ ] Amazon DynamoDB Accelerator.
 - [ ] Amazon Route 53.
-- [ ] Amazon CloudFront.
+- [x] Amazon CloudFront.
 
  
 
 ### How do Amazon EC2 Auto Scaling groups help achieve high availability for a web application?
 
 - [ ] They automatically add more instances across multiple AWS Regions based on global demand of the application.
-- [ ] They automatically add or replace instances across multiple Availability Zones when the
+- [x] They automatically add or replace instances across multiple Availability Zones when the
 application needs it.
 - [ ] They enable the application’s stalk: content to reside closer to end users.
 - [ ] They are able to distribute incoming requests across a tier of web server instances.
@@ -5359,7 +5359,7 @@ application needs it.
 
 - [ ] A public and private key-pair.
 - [ ] Amazon Inspector.
-- [ ] AWS Identity and Access Management (IAM) policies.
+- [x] AWS Identity and Access Management (IAM) policies.
 - [ ] Security Groups.
 
  
@@ -5368,7 +5368,7 @@ application needs it.
 
 - [ ] Amazon Aurora Backtrack.
 - [ ] Amazon CloudWatch Billing Alarms.
-- [ ] AWS Simple Monthly Calculator.
+- [x] AWS Simple Monthly Calculator.
 - [ ] AWS Cost and Usage report.
 
  
@@ -5377,7 +5377,7 @@ application needs it.
 
 - [ ] Amazon Inspector.
 - [ ] AWS CloudTrail.
-- [ ] AWS Artifact.
+- [x] AWS Artifact.
 - [ ] AWS Certificate Manager.
 
  
@@ -5386,7 +5386,7 @@ application needs it.
 
 - [ ] Encrypting client-side data.
 - [ ] Configuring AWS Identity and Access Management (IAM) roles.
-- [ ] Securing the Amazon EC2 hypervisor.
+- [x] Securing the Amazon EC2 hypervisor.
 - [ ] Setting user password policies.
 
  
@@ -5394,8 +5394,8 @@ application needs it.
 ### Under the shared responsibility model which of the following areas are the customer’s responsibility? (Select TWO)
 
 - [ ] Firmware upgrades of network infrastructure.
-- [ ] Patching of operating systems.
-- [ ] Patching of the underlying hypervisor.
+- [x] Patching of operating systems.
+- [x] Patching of the underlying hypervisor.
 - [ ] Physical security of data centers.
 - [ ] Configuration of the security group.
 
@@ -5406,16 +5406,16 @@ application needs it.
 - [ ] Amazon Simple Storage Service (Amazon S3).
 - [ ] Amazon DynamoDB.
 - [ ] Amazon Kinesis.
-- [ ] Amazon Redshift.
+- [x] Amazon Redshift.
 
  
 
 ### Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
 
 - [ ] Amazon EBS.
-- [ ] AWS Direct Connect.
+- [x] AWS Direct Connect.
 - [ ] Amazon CloudFront.
-- [ ] AWS Storage Gateway.
+- [x] AWS Storage Gateway.
 - [ ] Amazon Connect.
 
  
@@ -5423,16 +5423,16 @@ application needs it.
 ### What are the advantages of the AWS Cloud (Select TWO)
 
 - [ ] Fixed rate monthly cost.
-- [ ] No need to guess capacity requirements.
+- [x] No need to guess capacity requirements.
 - [ ] Increased speed to market.
-- [ ] Increased upfront capital expenditure.
+- [x] Increased upfront capital expenditure.
 - [ ] Physical access to cloud data centers.
 
  
 
 ### How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?
 
-- [ ] Users do not have to wait for infrastructure provisioning.
+- [x] Users do not have to wait for infrastructure provisioning.
 - [ ] The AWS Cloud infrastructure is much faster than an on-premises data center infrastructure.
 - [ ] AWS takes over application configuration management on behalf of users.
 - [ ] Users do not need to address security and compliance issues.
@@ -5442,8 +5442,8 @@ application needs it.
 ### Which of the following services could be used to deploy an application to servers running on-premises? (Select TWO)
 
 - [ ] AWS Elastic Beanstalk.
-- [ ] AWS OpsWorks.
-- [ ] AWS CodeDeploy.
+- [x] AWS OpsWorks.
+- [x] AWS CodeDeploy.
 - [ ] AWS Batch.
 - [ ] AWS X-Ray.
 
@@ -5454,14 +5454,14 @@ application needs it.
 - [ ] Access to multiple instance types.
 - [ ] Access to managed services.
 - [ ] Using Consolidated Billing to produce one bill.
-- [ ] Decreased acquisition time for new compute resources.
+- [x] Decreased acquisition time for new compute resources.
 
  
 
 ### Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
 
 - [ ] Amazon Inspector.
-- [ ] AWS Web Application Firewall (AWS WAF).
+- [x] AWS Web Application Firewall (AWS WAF).
 - [ ] Elastic Load Balancing (ELB).
 - [ ] AWS Shield.
 
@@ -5469,10 +5469,10 @@ application needs it.
 
 ### Which of the following are advantages of AWS consolidated billing? (Choose two)
 
-- [ ] The ability to receive one bill for multiple accounts.
+- [x] The ability to receive one bill for multiple accounts.
 - [ ] Service limits increasing by default in all accounts.
 - [ ] A fixed discount on the monthly bill.
-- [ ] Potential volume discounts, as usage in all accounts is combined.
+- [x] Potential volume discounts, as usage in all accounts is combined.
 - [ ] The automatic extension of the master account’s AWS support plan to all accounts.
 
  
@@ -5482,7 +5482,7 @@ application needs it.
 - [ ] Amazon Redshift.
 - [ ] Amazon DynamoDB.
 - [ ] Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store.
-- [ ] Amazon EC2 with Amazon Elastic Block Store (Amazon EBS).
+- [x] Amazon EC2 with Amazon Elastic Block Store (Amazon EBS).
 
  
 
@@ -5490,7 +5490,7 @@ application needs it.
 
 - [ ] Remote mirroring over Layer 2.
 - [ ] Remote mirroring over Layer 3.
-- [ ] Local mirroring over Layer 2.
+- [x] Local mirroring over Layer 2.
 - [ ] Local mirroring over Layer 3.
 
  
@@ -5498,8 +5498,8 @@ application needs it.
 ### Your customer wants to grant restricted proxy rights to their HR Department to act on behalf of employees belonging to their legal entity. How can you perform this requirement? There are 2 correct answers to this question.
 
 - [ ] Use the Manage Permission Roles tool to grant proxy rights to the HR Department.
-- [ ] Fill the PROXY column of the Basic Import template to match the requirements and import the file using the Import Employee Data tool.
-- [ ] Use the Proxy Management tool to configure the requested proxy assignments.
+- [x] Fill the PROXY column of the Basic Import template to match the requirements and import the file using the Import Employee Data tool.
+- [x] Use the Proxy Management tool to configure the requested proxy assignments.
 - [ ] Fill the Basic Import template with the requested proxy configuration and import the file using the Import and Export Data tool.
 
  
@@ -5507,10 +5507,10 @@ application needs it.
 ### Which two statements about configuring a traffic monitoring session are true? (Choose two)
 
 - [ ] You can set a local VM as a traffic destination.
-- [ ] You can have up to two active monitoring sessions simultaneously.
+- [x] You can have up to two active monitoring sessions simultaneously.
 - [ ] An unlimited number of monitoring session can be stored.
 - [ ] A newly created monitoring session is enabled by default.
 - [ ] A destination port can also be a source port within the same session.
-- [ ] A vHBA can be a source for either an Ethernet or Fibre Channel monitoring session, but not both.
+- [x] A vHBA can be a source for either an Ethernet or Fibre Channel monitoring session, but not both.
 
  
